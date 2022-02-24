@@ -1,0 +1,785 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Catholick letter to the seeker, or, A reply to the Protestant answer shewing that Catholicks have express Scriptures, for believing the real presence, and that Protestants have none at all, for denying it.</title>
+            <author>N. N.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 87 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52720</idno>
+            <idno type="STC">Wing N32</idno>
+            <idno type="STC">ESTC R9655</idno>
+            <idno type="EEBO-CITATION">13111221</idno>
+            <idno type="OCLC">ocm 13111221</idno>
+            <idno type="VID">97655</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52720)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97655)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 746:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Catholick letter to the seeker, or, A reply to the Protestant answer shewing that Catholicks have express Scriptures, for believing the real presence, and that Protestants have none at all, for denying it.</title>
+                  <author>N. N.</author>
+               </titleStmt>
+               <extent>[2], 34 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Lane ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: N.N.</note>
+                  <note>The "Protestant answer" is Robert Nelson's Transubstantiation contrary to Scripture.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Nelson, Robert, 1656-1715. --  Transubstantiation contrary to Scripture.</term>
+               <term>Transubstantiation.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97655:1"/>
+            <pb facs="tcp:97655:1"/>
+            <p>THE Catholick Letter TO THE SEEKER: OR, A REPLY TO THE
+<hi rend="blackletterType">Proteſtant Anſwer.</hi> SHEWING, That
+<hi>CATHOLICKS</hi> have Expreſs <hi>Scriptures,</hi> for Believing the
+<hi rend="blackletterType">Real Preſence;</hi> and, That <hi>Proteſtants</hi> have none at all, for De<g ref="char:EOLhyphen"/>nying <hi>It.</hi>
+            </p>
+            <q>
+               <bibl>St. Mark IV. verſ. 11, 12.</bibl>
+               <p>
+                  <hi>To Them that are Without, all theſe Things are done in Para<g ref="char:EOLhyphen"/>bles; That they may See, and not Perceive; Hear, and not <g ref="char:V">Ʋ</g>nderſtand.</hi>
+               </p>
+            </q>
+            <p>
+               <hi rend="blackletterType">Publiſhed with Allowance.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Lane,</hi> at the
+<hi>Golden-Anchor,</hi> the Corner Shop of <hi>Wilde</hi>-Street, next
+<hi>Duke</hi>-Street. 1688.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:97655:2"/>
+            <pb n="1" facs="tcp:97655:2"/>
+            <head>THE Catholick Letter TO THE SEEKER, &amp;c.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Hope <hi>Theſe Lines</hi> will over-take You, e're You proceed to paſs <hi rend="blackletterType">Sentence</hi> upon what has been ſaid by
+<hi>Either Party,</hi> in Anſwer to your <hi rend="blackletterType">Requeſt,</hi> concerning the <hi rend="blackletterType">Real Preſence;</hi> and the rather, for that in my <hi>Anſwer,</hi> I was (as it were) Silent, becauſe of the Ties You had put upon Us, to ſatisfie your
+<hi>Conſcience</hi> by the <hi>Scripture</hi> only; for,
+<note place="margin">
+                  <hi>Requeſt, P.</hi> 4, 5, 7.</note> 
+               <hi>That your De<g ref="char:EOLhyphen"/>ſign was to ſee what Scriptures We had for it, and what the Others had againſt it;</hi> and, <hi>That nothing but Scrip<g ref="char:EOLhyphen"/>ture, (without troubling our ſelves to tell You the meaning on't,) ſhould ſatisfie You in the Matter:</hi> To which I ſubmitted, as near as poſſible I could. And I humbly conceived the <hi>Prote<g ref="char:EOLhyphen"/>ſtant Anſwerer</hi> would have done ſo too; but, on the contrary, he hath not only quitted the <hi>Queſtion,</hi> but has crowded Three Sheets and an half of Paper, for the moſt part, with pretended <hi rend="blackletterType">Reaſons</hi> and <hi rend="blackletterType">Figures,</hi> without producing ſo much as <hi>One Text,</hi> pertinent, to diſprove the <hi rend="blackletterType">Real Preſence;</hi> or to prove any <hi>One Text,</hi> by me alledged, to be either <hi>Figuratively</hi> or <hi>Parabolically</hi> ſpoken; or that, for
+<hi rend="blackletterType">Such</hi> they muſt be under<g ref="char:EOLhyphen"/>ſtood:
+<pb n="2" facs="tcp:97655:3"/>But ſays, (by no <hi>Authority,</hi> but his own)
+<note place="margin">Proteſt. <hi>Anſ. Pag.</hi> 7, 8, 10.</note>
+               <hi>That the Senſe of Eating the Fleſh, and Drinking the Blood,</hi>
+               <hi rend="blackletterType">Muſt be Figurative;</hi> and, right or wrong, they
+<hi rend="blackletterType">are Figurative,</hi> and <hi rend="blackletterType">muſt not</hi> be properly and litterally underſtood<g ref="char:punc">▪</g> 
+               <hi>For I am</hi> (ſays he) <hi>as <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> as
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Words that the Doctrine of</hi> Tranſubſtantiation <hi>is <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Literal, th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n it
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> be the Rational Meaning of them,</hi> &amp;c. But, to have made You as ſure as himſelf, methinks, he ſhould have proved, by expreſs <hi>Scripture,</hi> that thoſe Texts which I produced were <hi>Figurative</hi> or <hi>Parabolical;</hi> and that they are not to be underſtood in the plain and proper <hi>Senſe</hi> wherein they were ſpoken; otherwiſe how doth he think we ſhall take his <hi>bare Word,</hi> or that his private Meaning of the <hi>Text</hi> ſhall paſs upon us for <hi>Goſpel:</hi> But, not to delay on this particular, pray obſerve how the <hi>Gentleman</hi> has evaded the <hi>Queſtion,</hi> which was of the
+<hi>Real</hi> and <hi>Immediate Preſence</hi> of the <hi>Body and Blood of Chriſt</hi> in the <hi>Sacrament,</hi>
+               <q rend="inline">"Whether we belie<g ref="char:EOLhyphen"/>ved it or not? if We believed it, We were to produce what <hi>Scripture</hi> We could to juſtifie Our ſaid <hi>Belief;</hi> and, if They deny'd it, They were to produce what
+<hi>Scripture</hi> They could, to prove That their <hi>Negative.</hi>"</q> But, inſtead of ſpeaking to the <hi rend="blackletterType">Real Perſence,</hi> he has betaken himſelf to <hi rend="blackletterType">Tranſub<g ref="char:EOLhyphen"/>ſtantiation,</hi> a Word deviſed by the <hi>Church</hi> to expreſs the <hi>Converſion</hi> that's made in the <hi>Sacrament,</hi> by the <hi>Divine Word;</hi> as the Word
+<hi>Conſubſtantial</hi> or <hi>Conſubſtantiate,</hi> was deviſed a<g ref="char:EOLhyphen"/>gainſt the <hi>Arians,</hi> to expreſs the Subſtance of the
+<hi>Son</hi>'s being <hi>Coequal,</hi> the ſame with the Subſtance of the
+<hi>Father;</hi> and, if the <hi>Requeſt</hi> had been of the
+<hi>Conſubſtantiality</hi> of the <hi>Son,</hi> the <hi>Arians,</hi> with as much <hi>Reaſon,</hi> might have Anſwered, <hi>That 'twas enough for them to ſhew, that</hi> Conſubſtantiality <hi>is not Taught in Scripture,</hi> as the <hi>Proteſtant Anſwerer</hi> has done; where (<hi>Pag.</hi> 3.) he ſays, <hi>That 'tis enough for them to ſhew, that</hi> Tran<g ref="char:EOLhyphen"/>ſubſtantiation <hi>is not taught in Scripture, tho' the Being of</hi> Chriſt<hi>'s</hi> Body and Blood in the <hi>Sacrament, is:</hi> At which rate, if per<g ref="char:EOLhyphen"/>mitted, <pb n="3" facs="tcp:97655:3"/>he'll <hi>Sham</hi> off the reſt of their <hi>Negative Doctrines;</hi> inſo<g ref="char:EOLhyphen"/>much, that when you come to the <hi>Infallibility of the Church, Invocation of Saints, Purgatory,</hi> &amp;c. and require him to ſhew <hi>Expreſs Scripture,</hi> to prove, That the <hi>Church</hi> is not <hi>Infallible,</hi> That we muſt not
+<hi>Invocate</hi> the <hi>Saints</hi> to Pray for us, That there is no
+<hi>Third Place</hi> in the other <hi>Life,</hi> beſides <hi>Heaven</hi> and
+<hi>Hell;</hi> he'll think to ſtop your Mouth with his, <hi>'Tis enough for them to ſhew, that</hi> Infallibility <hi>is not Taught in</hi> Scripture;
+<hi>tho', That the</hi> Church <hi>can never Err, be: That</hi> Invocation of Saints <hi>is not Taught in</hi> Scripture; <hi>tho' Prayer to</hi> Saints,
+<hi>and that they do Pray for us, be: That</hi> Purgatory <hi>is not Taught in</hi> Scripture, <hi>tho' a</hi> Third Place <hi>in the other Life, be;</hi> whereby he quits the <hi>Sub<g ref="char:EOLhyphen"/>ſtance,</hi> to wrangle at the <hi>Word,</hi> by which the <hi>Subſtance</hi> is ex<g ref="char:EOLhyphen"/>preſs'd: He might as well ſay, The
+<hi>Trinity</hi> and <hi>Incarnation</hi> are not Taught in <hi>Scripture;</hi> the Words being no more there, than <hi>Tranſubſtantiation, Purgatory,</hi> or the reſt: But how far this way of <hi>Anſwering</hi> will take with You, I know not. For My part, I humbly conceived your <hi>Meaning</hi> was purely to be ſa<g ref="char:EOLhyphen"/>tisfied in the <hi>Subſtance</hi> of what We believed of the
+<hi rend="blackletterType">Real Pre<g ref="char:EOLhyphen"/>ſence;</hi> and to ſhew You what
+<hi>Authorities</hi> We had from <hi>Scrip<g ref="char:EOLhyphen"/>ture,</hi> for ſuch Our
+<hi>Belief;</hi> not doubtings, if We agreed in the <hi>Subſtance</hi> of the Thing <hi>Believed,</hi> that ever We ſhould differ a<g ref="char:EOLhyphen"/>bout a <hi>Word</hi> ſufficiently proper to expreſs it.</p>
+            <p>The <hi>Gentleman</hi> proceeds, and tells you, (<hi>Pag.</hi> 3.)
+<hi>That You are but lately engaged in this Employment, or elſe You would never</hi> (ſays he) <hi>think it reaſonable, to oppoſe the Authority of One <g ref="char:V">Ʋ</g>nknown</hi> Anſwerer <hi>of that Communion, to the profeſs'd Opinion of ſo Many great Divines of that Church,</hi> &amp;c. And from thence in<g ref="char:EOLhyphen"/>fers a Concurrence of ſome of our <hi>Divines</hi> with him, in this particular, to wit, (<hi>Pag.</hi> 4.) <hi>That there was not One place of Scripture ſo Expreſs, that without the determination of the Church, it would evidently compel a Man to receive</hi> Tranſubſtantiation: And the ſame might as well be ſaid of the <hi>Conſubſtantiality</hi> of the Son
+<q rend="inline">"That there is no <hi>Scripture</hi> ſo Expreſs, as with<g ref="char:EOLhyphen"/>out <pb n="4" facs="tcp:97655:4"/>out the determination of the
+<hi>Church,</hi> it would evidently compel a Man to receive it;"</q> But what is this to the <hi>Being,</hi> or <hi>not Being</hi> of the <hi>Body and Blood of Chriſt</hi> in the <hi>Sacrament?</hi> Had he produced <hi>Scotus, Bellarmine,</hi> or any of the <hi>Holy Fathers,</hi> to diſprove the
+<hi rend="blackletterType">Real Preſence,</hi> it had been ſomething, tho not to your purpoſe; for the <hi>Requeſt</hi> was, (<hi>Pag.</hi> 4.) To ſatisfie You by the <hi>Scripture</hi> only; and not by citing of (our Modern
+<hi>Divines,</hi> or) Ancient <hi>Greek</hi> and <hi>Latin Fathers;</hi> but by the <hi>Ex<g ref="char:EOLhyphen"/>preſs Text,</hi> and plain <hi>Word of God,</hi> as Written, and ſet forth in our <hi>Engliſh Bibles,</hi> and no otherwiſe: And this was the <hi>Rule</hi> that I walk'd by, in my <hi>Anſwer;</hi> not that I thereby Renounced the <hi>Determination</hi> of the <hi>Church</hi> in this, or any other point of <hi>Faith: God</hi> forbid, but that I ſhould always prefer their <hi>
+                  <g ref="char:V">Ʋ</g>ni<g ref="char:EOLhyphen"/>verſal Conſent,</hi> to my <hi>Private Opinion!</hi> Wherefore, if what <hi>Sco<g ref="char:EOLhyphen"/>tus</hi> and <hi>Bellarmine</hi> have ſaid in that Matter, will do the <hi>Gentle<g ref="char:EOLhyphen"/>man</hi> a Kindneſs, he ſhall have it, not only from them, but from all the <hi>Faithful;</hi> that altho' the
+<hi>Scripture</hi> were never ſo plain, we would yet ſubmit to the
+<hi>Determination</hi> of the <hi>Church,</hi> for the true Senſe and Meaning thereof: But if ſo, as we muſt go to the <hi>Determination</hi> of the
+<hi>Church,</hi> for the Senſe of <hi>Scripture;</hi> what then becomes of their <hi>Bible</hi>-only-<hi>Rule-of-Faith?</hi>
+            </p>
+            <p>The <hi>Gentleman</hi> go's on, and (<hi>Pag.</hi> 5.) adviſeth You to Con<g ref="char:EOLhyphen"/>ſult even <hi>Thoſe,</hi> who are moſt concern'd; and particularly, (ſays he) <hi>The Author of your</hi> Catholick Anſwer,
+<hi>who has <g ref="char:V">Ʋ</g>ndertook (what the aboveſaid Learned Perſons deſpair'd of) to Prove <hi rend="blackletterType">Tranſubſtantiation</hi> to the full of your</hi> Requeſt, <hi>by Expreſs and Plain Texts of</hi> Scripture: And, in the ſame <hi>Page,</hi> tells you <hi>Your</hi> Catholick Anſwerer,
+<hi>it ſeems, has Read That, which Car<g ref="char:EOLhyphen"/>dinal</hi> Bellarmine <hi>had not ſeen; and that he had found out a great Part of a Chapter, which the Cardinal had Over-look'd.</hi> But to turn his own Cannon upon Himſelf, I may, with more Truth Retort on him, That he has Read, it ſeems, in my
+<hi>Anſwer,</hi> what I never Writ; and has found a great part thereof, for which <hi>You,</hi> and <hi>I,</hi> are yet to <hi>Stek:</hi> For I do not find the Word <pb n="5" facs="tcp:97655:4"/>
+               <hi rend="blackletterType">Tranſubſtantiation</hi> ſo much as Mentioned in either your <hi>Requeſt,</hi> or my
+<hi>Anſwer;</hi> for Juſtification whereof, I refer to <hi>Both:</hi> Wherefore, how Sincere the <hi>Gentleman</hi> has been, in this particular, let the World Judge. Indeed, the <hi>Title</hi> of my <hi>An<g ref="char:EOLhyphen"/>ſwer</hi> ſays,
+<hi rend="blackletterType">Proving the Real Preſence by Scripture only;</hi> and ſo doth the <hi>Current,</hi> throughout the whole <hi>Diſcourſe;</hi> but not one Word of <hi>Tranſubſtantiation:</hi> For that the
+<hi>Controverſie</hi> was not about the Word <hi rend="blackletterType">Tranſubſtantiation;</hi> but, about the
+<hi rend="blackletterType">Real Preſence,</hi> or <hi>Subſtance Believed and Deny'd in the</hi> Sacrament. But, here you'll ſay, (perhaps) <hi>What's this to the Purpoſe? Is not the</hi> Real Preſence <hi>and</hi> Tranſubſtantiation <hi>all as one?</hi> No, truly, they are not ſo all one as you may think: For, there is a great deal of difference betwixt a
+<hi>Man,</hi> and the <hi>Name</hi> by which he is diſtinguiſh'd; and the Meaſures that are taken to prove him a <hi>Man,</hi> are not the ſame with Thoſe which are us'd to prove his Name is <hi>Thomas:</hi> And ſo of the
+<hi>LORD</hi>'s <hi>Supper.</hi> 'Tis one thing to prove the <hi>Real Pre<g ref="char:EOLhyphen"/>ſence,</hi> and <hi>Being</hi> of <hi>CHRIST</hi>'s <hi>Body</hi> and
+<hi>Blood</hi> in the <hi>Sacra<g ref="char:EOLhyphen"/>ment;</hi> and 'tis Another to ſhew
+<hi>Reaſons,</hi> why this Myſteri<g ref="char:EOLhyphen"/>ous Change of <hi>Bread</hi> and
+<hi>Wine,</hi> into the <hi>Body</hi> and <hi>Blood</hi> of <hi>CHRIST,</hi> is, by the <hi>Church,</hi> call'd <hi>TRANS<g ref="char:V">Ʋ</g>BST ANTIATION;</hi> though, whoever believes the One, can't in Truth deny the Other: For, if what our
+<hi>Saviour</hi> ſaid, (when, <hi>Matth.</hi> 26. <hi>Verſ.</hi> 26.
+<hi>JES<g ref="char:V">Ʋ</g>S took Bread, and bleſſed it, and brake it, and gave it to the Diſciples; and ſaid, TAKE, EAT, THIS IS MY BODY</hi>) be true, That it was, as He ſaid, his <hi>Body;</hi> then it implies a <hi>Change</hi> from its former being <hi>Bread,</hi> to its pre<g ref="char:EOLhyphen"/>ſent being his <hi>Body.</hi> And this <hi>Myſterious Change,</hi> the Holy <hi>Catholick Church</hi> doth properly call <hi>TRANS<g ref="char:V">Ʋ</g>BST ANTIATI<g ref="char:EOLhyphen"/>ON:</hi> Not that the Subſtance of
+<hi>Bread</hi> is Changed, accord<g ref="char:EOLhyphen"/>ing to <hi>Senſual Taſte,</hi> but according to <hi>Divine Faith</hi> in <hi>JES<g ref="char:V">Ʋ</g>S CHRIST.</hi> Wherefore the
+<hi>Gentleman,</hi> methinks, ſhould not have Banter'd altogether, as he doth, at the Word <hi>TRAN<g ref="char:EOLhyphen"/>S<g ref="char:V">Ʋ</g>BST ANTIATION;</hi> but have ſpoke to the
+<hi>Subſtance;</hi> and <pb n="6" facs="tcp:97655:5"/>have either Confeſs'd the
+<hi>REAL PRESENCE,</hi> or have pro<g ref="char:EOLhyphen"/>duc'd nothing but <hi>SCRIPT<g ref="char:V">Ʋ</g>RE</hi> to Diſprove it, as was Re<g ref="char:EOLhyphen"/>queſted.</p>
+            <p>The <hi>Gentleman</hi> proceeds, notwithſtanding; and tells you,
+<hi>Pag.</hi> 6. <hi>That this Diſcourſe of our</hi> Saviour<hi>'s,</hi> (meaning That in the 6th. <hi>Chapter</hi> of St. <hi>John</hi>) <hi>had no ſpecial Reference to the</hi> Sacrament; <hi>for that the</hi> Sacrament
+<hi>was not Inſtituted, till</hi> (ſays he) <hi>above a Year after, as the Time of this Diſcourſe ſhews,</hi> Verſ. 4, <hi>&amp;c.</hi> Very well! On which pleaſe to remark: That the <hi>Sacrament</hi> was not then Inſtituted, I grant, as I did before, in my <hi>Anſwer,</hi> Pag. 6. where I ſaid, <hi>Firſt, I prove</hi> Chriſt<hi>'s Promiſe before He Inſtituted the</hi> Sacrament, <hi>&amp;c.</hi> and ſo far the
+<hi>Gentle<g ref="char:EOLhyphen"/>man</hi> might have ſpar'd his Labour: But, that the
+<hi>Sacrament</hi> was not Inſtituted till above a Year after, is what he can ſhew no Rule for: For the Text, which he cites to prove his Aſ<g ref="char:EOLhyphen"/>ſertion, is this, <hi>John</hi> 6. <hi>Verſ.</hi> 4. <hi>And the Paſſover, a Feaſt of the Jews was nigh.</hi> Now, that this word <hi rend="blackletterType">Nigh</hi> ſhould ſigni<g ref="char:EOLhyphen"/>fie <hi rend="blackletterType">Above a Year after,</hi> is ſuch a Figure, as never was. Where<g ref="char:EOLhyphen"/>as St. <hi>Luke</hi> hath the ſame Word, ſaying, <hi>Chap.</hi> 22. <hi>Verſ.</hi> 1. <hi>Now the Feaſt of <g ref="char:V">Ʋ</g>nleaven'd Bread drew <hi rend="blackletterType">Nigh,</hi> which is cal<g ref="char:EOLhyphen"/>led the PASSOVER;</hi> and immediately the <hi>Paſſover</hi> follow<g ref="char:EOLhyphen"/>ed, as appears by the <hi>Chapter.</hi> And St. <hi>Mark</hi> treats not of the <hi>Paſſover,</hi> till within Two Days of it, ſaying,
+<hi>Chap.</hi> 14. <hi>Verſ.</hi> 1. <hi>After Two Days was the Feaſt of the Paſſover:</hi> So St. <hi>Matth.</hi> 26. <hi>Verſ.</hi> 2. <hi>Ye know, that after Two Days is the Feaſt of the Paſſover,</hi> &amp;c. I do not ſay, That the Word <hi rend="blackletterType">Nigh,</hi> in St.
+<hi>John,</hi> ſignifies ſo near as <hi>Two Days;</hi> nor do I find, by expreſs and plain <hi>Scripture,</hi> that it is to be taken for above <hi>a Year after.</hi> But, whether what's ſaid in the 6th. <hi>Chapter</hi> of St.
+<hi>John,</hi> have any Reference to the <hi>Sacrament,</hi> is the
+<hi>Quaery?</hi> For, though our <hi>Saviour</hi> did not then Inſtitute the
+<hi>Sacrament;</hi> yet He ſays, <hi>Verſ.</hi> 51. <hi>And the Bread which I will give, is my Fleſh; which <hi rend="blackletterType">I Will</hi> give for the Life of the World.</hi> By which You ſee, that, though He did not then give us this <hi>Bread;</hi> yet <pb n="7" facs="tcp:97655:5"/>He promis'd, He would give us <hi>Bread to Eat,</hi> which ſhould be the very ſame <hi>Fleſh,</hi> which he would, and afterwards did, give for the <hi>Life of the World.</hi> Now, Whether this abſolute Promiſe hath any Reference to the enſuing Performance, be You the Judge? when, at his Laſt <hi>Supper, He took Bread, and bleſſed it, and brake it, and gave it to his Diſciples, and ſaid, TAKE, EAT, THIS IS MY BODY.</hi> If therefore this <hi>Bread,</hi> which He here gives us to <hi>Eat,</hi> ſaying, <hi>TAKE, EAT, THIS IS MY BODY,</hi> be not that <hi>Bread,</hi> which He promis'd He would give us to <hi>Eat,</hi> which ſhould be his <hi>Fleſh,</hi> pray ask your <hi>Prote<g ref="char:EOLhyphen"/>teſtant Anſwerer,</hi> Where, When, and How, did <hi>CHRIST</hi> give us
+<hi>Bread</hi> to <hi>Eat,</hi> which ſhould be his <hi>Fleſh,</hi> if This be it not?</p>
+            <p>The <hi>Gentleman</hi> goes on, and (<hi>Pag.</hi> 7.) tells You:
+<hi>Theſe Verſes,</hi> (<hi>viz.</hi> 53, 54, 55, 56, 57.) <hi>do ſhew, where our</hi> Saviour <hi>ſaith, EXCEPT YE EAT, and WHOSO EATEIH,</hi> &amp;c. <hi>in all which the Preſent Time is ſpoken of.</hi> But, why the
+<hi>Gentleman</hi> ſhould begin at <hi>Verſ.</hi> 53. and thereby skip
+<hi>Verſ.</hi> 51. I know not; where <hi>CHRIST</hi> told them before,
+<hi>That He WO<g ref="char:V">Ʋ</g>LD</hi> (in the <hi>Future Tenſe</hi>) <hi>give them Bread to Eat,</hi> which ſhould be his <hi>Fleſh;</hi> and then tells them, That
+<hi>EXCEPT THEY DID EAT, and WHOSO EATETH,</hi> &amp;c. Not that He did then
+<hi>GIVE,</hi> or that they did then <hi>EAT</hi> his <hi>Fleſh,</hi> or
+<hi>DRINK</hi> his <hi>Blood;</hi> which they could not do, before <hi>He took it, bleſ<g ref="char:EOLhyphen"/>ſed it, brake it, and gave it:</hi> For at that Time when He ſpake, as in the 6th. <hi>Chapter</hi> of St. <hi>John,</hi> He only told Them, <hi>He WO<g ref="char:V">Ʋ</g>LD give it;</hi> and, the <hi>Eve</hi> before his
+<hi>Paſſion,</hi> He PER<g ref="char:EOLhyphen"/>FORM'D it: And from that Time, I ſuppoſe, the
+<hi>Obligation</hi> bears force, <hi>Verſ.</hi> 53. That, <hi>Except ye EAT the FLESH of the Son of Man, and DRINK his BLOOD, ye have no Life in you:</hi> He doth not ſay, <hi>Except ye EAT it, before I GIVE it;</hi> but firſt ſaid, He <hi>WO<g ref="char:V">Ʋ</g>LD give it;</hi> and then, <hi>EXCEPT THEY DID EAT,</hi> &amp;c. The <hi>Gentleman,</hi> however, from the above-mention'd Texts, inſinuates,
+<q rend="inline">"That <hi>CHRIST</hi>'s <hi>Fleſh</hi>
+                  <pb n="8" facs="tcp:97655:6"/>and <hi>Blood</hi> may be Eaten and Drank out of the
+<hi>Sacrament,</hi> as <hi>(ſays he)</hi> is evident from the Senſe and Letter of it: If ſo, then <hi>(continues he)</hi> it could not be underſtood of that <hi>Fleſh</hi> and <hi>Blood,</hi> which the
+<hi>Bread</hi> and <hi>Wine</hi> are Converted into, in the <hi>Sacrament;</hi> nor <hi>(adds he)</hi> of Carnal Eating his <hi>Fleſh,</hi> and Drinking his
+<hi>Blood.</hi>"—</q>As to his Carnal Eating; We beg his Pardon, if he means, as we Eat <hi>Beef,</hi> and other Meats: For that We Truly and Really
+<hi>Receive the Body and Blood of CHRIST, in the Sacrament,</hi> (to uſe his own Words, <hi>Pag.</hi> 12.) <hi>after an Heavenly and Spiritual manner:</hi> And ſo far We ſhould <hi>Agree,</hi> did We not <hi>Differ</hi> in This, That <hi>They</hi> Re<g ref="char:EOLhyphen"/>ceive it in <hi>Figure</hi> and <hi>Fancy</hi> only, and
+<hi>We</hi> Receive it in <hi>Sub<g ref="char:EOLhyphen"/>ſtance</hi> and <hi>Truth.</hi>—<q rend="inline">"But, that 'tis evident, <hi>(as he ſays)</hi> from the Letter and Senſe of it, That the <hi>Fleſh</hi> and <hi>Blood</hi> of <hi>CHRIST</hi> may be Eaten out of the <hi>Sacrament,</hi> and even Be<g ref="char:EOLhyphen"/>fore it was Inſtituted," <hi>&amp;c.</hi>—</q>is indeed ſuch a
+<hi>Figure,</hi> as none but Himſelf can unriddle. For my part, I have read St. <hi>John</hi> on this Occaſion; and I can't find it ſo evident, as he ſays it is: Pray, <hi>Sir,</hi> do you Conſult the Words, and ſee, whether thoſe Texts do imply, the <hi>Eating</hi> and <hi>Drinking</hi> the
+<hi>Fleſh</hi> and <hi>Blood</hi> of <hi>CHRIST,</hi> 
+               <hi rend="blackletterType">Out</hi> of the <hi>Sacrament,</hi> as well as
+<hi rend="blackletterType">In it;</hi> or in any other manner, than under the Forms of <hi>Bread</hi> and <hi>Wine,</hi> according to both the <hi>Promiſe,</hi> and <hi>Inſtitu<g ref="char:EOLhyphen"/>tion?</hi> Or, Whether they could <hi>Eat</hi> it, before He
+<hi>Gave</hi> it? For, in the 6<hi>th. Chapter</hi> of St. <hi>John, CHRIST</hi> did not give them his <hi>Fleſh</hi> to Eat, nor his
+<hi>Blood</hi> to Drink: But told them, <hi>He would give them BREAD to Eat,</hi> which ſhould be his <hi>FLESH;</hi> but, before He <hi>GAVE</hi> it, 'twas impoſſible for them to <hi>EAT</hi> it.</p>
+            <p>He further proceeds, and tells You, (<hi>Pag.</hi> 8.)
+<q rend="inline">"That it muſt not be Properly and Litterally underſtood: For then <hi>(ſays he)</hi> all that thus Properly <hi>Eat</hi> and <hi>Drink</hi> the <hi>Fleſh</hi> and <hi>Blood</hi> of <hi>CHRIST,</hi> would have Eternal Life, according to our <hi>Saviour</hi>'s Aſſertion,"
+<hi>Verſ.</hi> 54.—</q>Very true! The <hi>Wor<g ref="char:EOLhyphen"/>thy <pb n="9" facs="tcp:97655:6"/>Receivers</hi> (who perſevere to the End) have ſo; but the
+<hi>
+                  <g ref="char:V">Ʋ</g>nworthy,</hi> quite contrary: And we can ſhew You a <hi>Rule</hi> for it, <hi>viz.</hi> 1 <hi>Cor.</hi> 11.27,29. <hi>Wherefore, whoſoever ſhall Eat this</hi> BREAD, <hi>and Drink this</hi> CUP <hi>of the Lord <g ref="char:V">Ʋ</g>nworthily, ſhall be guilty of the Body and Blood of the</hi> Lord: <hi>For, he that Eat<g ref="char:EOLhyphen"/>eth and Drinketh</hi> UNWORTHILY, <hi>Eateth and Drinketh</hi> Damnation
+<hi>to himſelf, not diſcerning the</hi> LORD<hi>'s</hi> BODY: Wherefore the
+<hi>Worthy</hi> may receive to Eternal Life, and the <hi>
+                  <g ref="char:V">Ʋ</g>nworthy</hi> to Eternal Death. And the Words, <hi>TAKE, EAT, THIS IS MY BODY,</hi> may be properly underſtood; the <hi>Pro<g ref="char:EOLhyphen"/>teſtant Muſl-bee's</hi> to the contrary, notwithſtanding.</p>
+            <p>The <hi>Gentleman</hi> tells you further, in the ſame
+<hi>Page;</hi>
+               <q rend="inline">"That then, the <hi>Sacrament in both Kinds,</hi> will be neceſſary to Sal<g ref="char:EOLhyphen"/>vation," <hi>&amp;c.</hi>—</q>As to this of
+<hi>Both Kinds,</hi> it doth not properly Relate either to Your
+<hi>Requeſt,</hi> or My <hi>Anſwer;</hi> but is a <hi>Con<g ref="char:EOLhyphen"/>troverſie</hi> deſerving to be Argued by it ſelf, in convenient Time and Place: And, beſides, I do not ſee where the neceſſity lies, of defining the
+<hi>Sacrament in Both Kinds,</hi> to One, that believes it in <hi>Neither;</hi> not but that I am ready to ſatisfie You in this particular, <hi>where,</hi> and <hi>when</hi> You pleaſe.</p>
+            <p>The <hi>Gentleman</hi> (<hi>Pag.</hi> 8.) ſharply reflects upon what I ſaid in my <hi>Anſwer,</hi> p. 8. <hi>That if they went to</hi> Figures <hi>and</hi> Parables, <hi>we knew how to handle them.</hi> From whence he Inſinuates ſome Extraordinary way of handling: For my part, I take
+<hi>GOD</hi> to Witneſs, I had no other meaning in it, than to handle them by the <hi>BIBLE,</hi> as I ſaid, to <hi>Rule them by their own Rule:</hi> Wherefore, let the <hi>Evil</hi> be to them that think it.</p>
+            <p>As to what he ſays, <hi>Pag.</hi> 8.
+<q rend="inline">"Of the Antipathy I ſhould have to
+<hi>Figures</hi> and <hi>Parables;</hi> and Croſs <hi>my Self,</hi> where-ever they are Named:"—</q>I do not ſee, by what I have Writ, where the <hi>Gentleman</hi> can have the leaſt Ground for this
+<hi>Croſs</hi> and <hi>Antipathous Reflection:</hi> For, to the contrary, I highly venerate thoſe Diſcourſes, wherein our <hi>Saviour</hi> was often pleaſed to expreſs himſelf by way of <hi>Parable,</hi> &amp;c. But that which I <pb n="10" facs="tcp:97655:7"/>abhor, (and which, indeed, would make a
+<hi>Saint</hi> Bleſs himſelf) is, To ſee Men mould <hi>GOD</hi>'s Word into what Form they pleaſe, and make every thing a <hi>Figure,</hi> that doth not ſquare with their <hi>Fancy:</hi> Is it becauſe our <hi>Saviour</hi> ſpake ſome things by way of <hi>Parable,</hi> that All he ſaid was
+<hi>ſuch?</hi> or, That he ne<g ref="char:EOLhyphen"/>ver ſpake otherwiſe? If ſo, and that the
+<hi>Scriptures</hi> are ſo full of ſecret Meanings, How comes it, that mean Capacities are (by the Church of St. <hi>Martins</hi>) left to themſelves, to Judge of the true ſence of <hi>Scripture,</hi> according to D. <hi>T.</hi> who tells you, in his <hi>True Account of a Conference,</hi> p. 18.
+<q rend="inline">"That a Man, after uſing all Chriſtian means, and the help of all Mini<g ref="char:EOLhyphen"/>ſterial Guides poſſible, muſt at laſt Judge for himſelf."—</q>A ſpecial Aſſertion indeed! which, if true, What need of Teachers, ſeeing that every Man muſt teach himſelf, by be<g ref="char:EOLhyphen"/>ing a Judge of the Text to himſelf at laſt? But, not to detain you on this particular,</p>
+            <p>Let us come to what the <hi>Gentleman</hi> deſires,
+<hi>pag.</hi> 8.
+<q rend="inline">"That I ſhould tell him, without a
+<hi>Figure,</hi> what is that Meat which endureth to everlaſting Life, whereof our <hi>Saviour</hi> ſpeaks in the Sixth Chapter of St. <hi>John, verſ.</hi> 27. <hi>Labour not for the Meat which Periſheth, but for</hi> THAT MEAT <hi>which endu<g ref="char:EOLhyphen"/>reth unto everlaſting Life, which the Son of Man ſhall give unto you; for him hath God the Father ſealed:</hi>"</q> Why, truly, for my part, I do not ſee where the difficulty lies in theſe words of <hi>Labouring for that Meat which endureth to everlaſting Life, which the Son of Man ſhall give unto you;</hi> it being but a Preamble to what immediately follows, in the ſame <hi>Chapter,</hi> of <hi>Giving us his</hi> FLESH <hi>to</hi> EAT, <hi>which is the true Meat that endureth unto everlaſting Life:</hi> And beſides, He tells us, That the <hi>Meat which endureth unto everlaſting Life, ſhould be given us by the Son of Man;</hi> agreeable to what he ſays, <hi>verſ.</hi> 51, 55. <hi>And the</hi> BREAD
+<hi>that I will give, is my</hi> FLESH, <hi>which I will give for the Life of the World: For my</hi> FLESH <hi>is Meat indeed, and my</hi> BLOOD <hi>is Drink indeed:</hi> which, without <pb n="11" facs="tcp:97655:7"/>a <hi>Figure,</hi> I humbly conceive, is that <hi>MEAT which endureth unto everlaſting Life.</hi> As to his, <hi>How</hi> the Son was Sealed by the Father, and the reſt of his
+<hi>How's;</hi> they are ſuch <hi>Jewiſh</hi> expreſſions, as that all
+<hi>Chriſtian</hi>-pretenders ought to be aſha<g ref="char:EOLhyphen"/>med of them: For
+<hi>CHRIST</hi> no ſooner ſpake of this Do<g ref="char:EOLhyphen"/>ctrine of <hi>giving us his</hi> FLESH <hi>to Eat,</hi> but the <hi>Jews</hi> came up with their <hi>How</hi> too; ſaying, <hi>verſ.</hi> 52. <hi>How can this Man give us his</hi> FLESH
+<hi>to Eat?</hi> So <hi>Jewiſh</hi> it is, to queſtion <hi>GOD,</hi> how he could do it? how this? how that? and if, How he made the World of Nothing be asked? Can we Anſwer, but by his ſole Word? And, ſhall it not be ſufficient for us to take his Word, when he tells us, <hi>The Son of Man was Sealed of</hi> GOD <hi>the Father?</hi> and Believe him, without calling of
+<hi>GOD</hi> to queſtion <hi>How,</hi> or diving into the ſecrets of Heaven. So, How he came down, <hi>&amp;c.</hi> and the reſt of his
+<hi>How</hi>'s, if they are not ſufficiently plain in the <hi>Bible,</hi> ſo as to be clearly underſtood, I'll agree with the <hi>Gentleman,</hi> and ſubmit to the determination of the Church; and ſo muſt <hi>YO<g ref="char:V">Ʋ</g>,</hi> and all the <hi>SEEKERS</hi> in <hi>England,</hi> if what the <hi>Proteſtant Anſwerer</hi> Inſinuates, be true: For, if theſe expreſs and plain words of <hi>Chriſt</hi> be a <hi>Figure,</hi> where he ſays as plain, as plain can be, <hi>That he would give us</hi> BREAD <hi>to Eat, which ſhould be his</hi> FLESH; and accordingly, <hi>He took Bread, and Bleſſed it, and Brake it, and gave it; ſaying,</hi> TAKE, EAT, THIS IS MY BODY; I ſay, if theſe words are <hi>Figurative,</hi> and muſt not be <hi>properly</hi> underſtood, I ſee no Reaſon, why the whole <hi>Bible</hi> ſhould not be a <hi>Figure</hi> too: For, if ever <hi>CHRIST</hi> was Plain in any thing,
+'twas in this; eſpecially in a Point, wherein there was never more occaſion to Expound, if a <hi>Figure,</hi> than when the <hi>Jews</hi> (to whom He came) murmur'd, and ſaid, <hi>How can this Man give us his Fleſh to Eat?</hi> and when ſome of the Diſciples ſaid, <hi>It was an hard ſaying; who could hear it?</hi> and thereupon walked no more with Him: He, that, in Caſes of leſs Moment, always explain'd his <hi>Parables,</hi> 
+               <pb n="12" facs="tcp:97655:8"/>ſhould yet be <hi>Dark</hi> and <hi>Figurative</hi> in This, of that Importance, which occaſioned not only the Murmuring of the <hi>Jews,</hi> and Departure of the <hi>Diſciples,</hi> 
+               <hi rend="blackletterType">Then;</hi> but alſo occaſions (as <hi>CHRIST</hi> well foreſaw) our differences at
+<hi rend="blackletterType">This Day:</hi> Should He, I ſay, explain Himſelf in matters of leſs weight, and yet be Dark in this great Concern, is what would be con<g ref="char:EOLhyphen"/>trary to his Wiſdom and Goodneſs. But, ſo far was <hi>CHRIST</hi> from meaning otherwiſe than plainly, as he ſpake, that to the murmuring
+<hi>Jews</hi> he confirms it, (<hi>verſ.</hi> 53.) with a <hi>Verily, verily, I ſay unto you, Except ye</hi> EAT <hi>the</hi> FLESH <hi>of the Son of Man, and</hi> DRINK <hi>his</hi> BLOOD, <hi>ye have no Life in you;</hi> and to the Unbelieving <hi>Diſciples,</hi> (verſ. 61, 62.) with a <hi>Doth this offend you? What if ye ſhall ſee the Son of Man aſcend up, where he was before?</hi> Whereas, when he ſpake by <hi>Parables,</hi> He explain'd himſelf to them; as <hi>Mat.</hi> 13.3. <hi>And he ſpake many things to them in Parables, ſaying, Behold a Sower, &amp;c.</hi> or, when he ſpake by way of <hi>Similitude;</hi> as <hi>Mat.</hi> 18.23. <hi>Therefore is the Kingdom of Heaven</hi> LIKENED <hi>unto a cer<g ref="char:EOLhyphen"/>tain King.</hi> Mat. 20.1.
+<hi>For the Kingdom of Heaven is LIKE unto a Man, that is an Houſholder.</hi> Mat. 22.1,2. <hi>And</hi> JESUS <hi>anſwered, and ſpake unto them again by</hi> PARABLES, <hi>and ſaid, The Kingdom of Heaven is</hi> LIKE <hi>unto, &amp;c.</hi> Mat. 23.1. <hi>Then ſhall the Kingdom of Heaven be</hi> LIKENED
+<hi>unto Ten Virgins,</hi> &amp;c. See <hi>Mark</hi> 4.2. <hi>Mark</hi> 12.1.
+<hi>Luke</hi> 12.16. <hi>Luke</hi> 13.18,19. <hi>Luke</hi> 15.3. <hi>Luke</hi>
+19.11. <hi>Luke</hi> 20.9. and you'll find, that in all Caſes,
+<hi>CHRIST</hi> ſpake not by <hi>PARABLES,</hi> without telling them it was ſo, and Expounding the ſame unto them. But, becauſe the
+<hi>Gentleman</hi> is more particular, <hi>pag.</hi> 22. upon that of
+<hi>CHRIST</hi>'s being a <hi>Door,</hi> a <hi>Vine,</hi> a <hi>Rock,</hi> &amp;c. let's ſee, whether the Parity 'twixt, <hi>I am the</hi> DOOR,
+<hi>the</hi> VINE, <hi>&amp;c.</hi> be the ſame with, <hi>The</hi> BREAD
+<hi>that I will give, is my</hi> FLESH, <hi>which I will give for the Life of the World;</hi> or, with what he ſaid at his Laſt Supper, when <hi>He took</hi> BREAD, <hi>and Bleſſed it, and Brake it, and Gave it, and ſaid,</hi> TAKE, <pb n="13" facs="tcp:97655:8"/>EAT, THIS IS MY BODY; without ever Explaining a Syllable to the contrary: Whereas, in that of the <hi>DOOR, John</hi> 10. the Text tells us, It was a <hi>PARABLE,</hi> ſaying,
+<hi>Verſ.</hi> 6. <hi>This</hi> PARABLE <hi>ſpake</hi> JESUS <hi>unto them, &amp;c.</hi> Wherefore, if the <hi>Proteſtant Anſwerer</hi> would be ſo kind, as to produce as plain Scripture for this of the <hi>Sacrament</hi>'s being a <hi>Figure,</hi> as I have done for the <hi>Door</hi>'s being a
+<hi>Parable,</hi> he'll doubtleſs oblige <hi>YO<g ref="char:V">Ʋ</g>,</hi> and certainly gain a Proſelyte of <hi>ME.</hi> And, in like manner of the <hi>Vine; CHRIST</hi> ſaith, <hi>Joh.</hi> 15.1. <hi>I am the True</hi> VINE, <hi>and my Father is the Huſ<g ref="char:EOLhyphen"/>bandman;</hi> as before, <hi>Mat.</hi> 20.1. where he likened the
+<hi>King<g ref="char:EOLhyphen"/>dom of Heaven to a Man, that is an Houſholder,;</hi> and ſo goes on, Explaining the ſame; ſaying, <hi>Verſ.</hi> 4. <hi>As the Branch can<g ref="char:EOLhyphen"/>not bear fruit of it Self, except it abide in the</hi> VINE; <hi>no more can ye, except ye abide in</hi> ME; which (if you read the <hi>Chap<g ref="char:EOLhyphen"/>ter</hi>) you'll find to be more plain: And, in like manner, of the <hi>ROCK;</hi> That
+<hi>he was the</hi> CORNER STONE, upon which the <hi>Foundation was laid;</hi> and no other <hi>Foundation can any Man lay, than what</hi> CHRIST <hi>has lay'd; for on Him is Built the whole ſtructure of our Salvation:</hi> Wherefore, whether theſe <hi>Parables</hi> of the <hi>DOOR,</hi> the
+<hi>VINE,</hi> &amp;c. be as plain, as, TAKE, EAT, THIS IS MY BODY, be
+<hi>You,</hi> or any Im<g ref="char:EOLhyphen"/>partial <hi>Soul,</hi> the Judge in his own
+<hi>Conſcience.</hi>
+            </p>
+            <p>As to what he ſays (<hi>Pag.</hi> 9.)
+<q rend="inline">"That if the <hi>Words</hi> are Literal<g ref="char:EOLhyphen"/>ly to be underſtood, they would rather Infer the Converſion of <hi>Chriſt</hi>'s
+<hi>Fleſh</hi> and <hi>Blood</hi> into <hi>Bread</hi> and
+<hi>Wine:</hi>"—</q>For Proof whereof, let's go to the Words of Converſion themſelves, <hi>Mat.</hi> 26.26,27,28. where it is ſaid,
+<hi>Chriſt took</hi> Bread, <hi>and Bleſſed it, and Brake it, and gave it, and ſaid, Take, Eat, This is My BODY;</hi> he doth not ſay, <hi>Take, Eat, my BODY is this BREAD:</hi> And in like manner of the <hi>C<g ref="char:V">Ʋ</g>P; For this is my Blood:</hi> which Words, <hi>This is my BODY, This is my BLOOD,</hi> are the Words of Converſion, and do no ways imply a Change of <hi>Chriſt</hi>'s
+<hi>Fleſh into Bread,</hi> nor <hi>of his Blood into Wine;</hi> but, to the con<g ref="char:EOLhyphen"/>trary, <pb n="14" facs="tcp:97655:9"/>they plainly Infer the Converſion of
+<hi>Bread</hi> and <hi>Wine</hi> into both the <hi>Body and Blood of Chriſt.</hi> As to the <hi>Texts</hi> he brings from the 6th. of St.
+<hi>John,</hi> there was no Converſion then made; nor do They make for him: Beſides, that he, who but juſt now (<hi>Pag.</hi> 6. of his
+<hi>Anſwer</hi>) told us,
+<q rend="inline">"That this <hi>Diſcourſe</hi> in St.
+<hi>John,</hi> had no ſpecial Reference to the
+<hi>Sacrament,</hi>"—</q>ſhould now apply them, notwithſtanding, is an odd way of ſhifting; however, as 'tis, theſe are the Words, (<hi>John,</hi> 6.48,55.) <hi>I am that Bread of Life. For my Fleſh is Meat indeed, and my Blood is Drink indeed:</hi> Had the Words been, <hi>My Fleſh is Bread in<g ref="char:EOLhyphen"/>deed,</hi> as the <hi>Gentleman</hi> would fain have them, if you obſerve it, (<hi>Pag.</hi> 6.) then indeed he would have had ſomething of his ſide; but as they are, they make clear againſt him. As to thoſe Words, <hi>ver.</hi> 48. <hi>I am that Bread of Life;</hi> methinks, they are ſufficiently explained by the following <hi>Texts;</hi> where he ſays,
+<hi>v.</hi> 50. <hi>This is the Bread which cometh down from Heaven.</hi> ver.
+51. <hi>I am the Living Bread,</hi> &amp;c. which <hi>Bread</hi> he tells us plainly, is his <hi>Fleſh,</hi> ſaying, <hi>Ver.</hi> 51. <hi>And the Bread that I will give, is my Fleſh;</hi> and not, that the <hi>Fleſh</hi> which He would give, was <hi>Bread;</hi> But that, <hi>That Bread was his Fleſh;</hi> which, as ſaid, is ſuffici<g ref="char:EOLhyphen"/>ently plain; if not, rather than differ, I'll joyn in Opinion with the <hi>Proteſtant Anſwerer,</hi> and thoſe other <hi>Divines;</hi> and with <hi>Him</hi> and <hi>Them,</hi> ſubmit to the Determination of the Church.</p>
+            <p>There is one <hi>Argument</hi> yet, on which the
+<hi>Gentleman</hi> ſeems much to depend, (<hi>Pag.</hi> 9.) where he ſays,
+<q rend="inline">"Since if <hi>Chriſt</hi> be not, but where he intirely is, then (ſays he) he muſt be <hi>Eaten</hi> intirely,"
+<hi>&amp;c.</hi>—</q>From whence he concludes the <hi>not Being</hi> of
+<hi>Chriſt</hi>'s <hi>Body</hi> in the <hi>Sacrament,</hi> becauſe (as he conceives) he is not there <hi>Intire,</hi> for <hi>Reaſons</hi> (not
+<hi>Scripture</hi>) of his own. To which I Anſwer, and grant, That
+<hi>Chriſt</hi> is <hi>Not,</hi> but where He is <hi>Intire;</hi> for that there is no ſeparation to be made of his <hi>Natures,</hi> nor diviſion of his <hi>Body</hi> into Parts; but that He is to remain <hi>One Chriſt Intire</hi> for ever: But, as all things are poſſible to <hi>God;</hi> ſo, whether <hi>Chriſt,</hi> who is perfect <hi>God,</hi> may not be
+<hi>In<g ref="char:EOLhyphen"/>tire</hi> 
+               <pb n="15" facs="tcp:97655:9"/>in the <hi>Sacrament,</hi> and in many places, at one and the ſame <hi>Time,</hi> is the <hi>Quaere?</hi> which, if fully Reſolved, will overthrow all his <hi>Reaſoning Ware</hi> beſides: Wherefore, that <hi>Chriſt</hi> is <hi>Not,</hi> but where He is
+<hi>Intire,</hi> is granted; and that <hi>Chriſt</hi> may be
+<hi>In<g ref="char:EOLhyphen"/>tire,</hi> tho' <hi>
+                  <g ref="char:V">Ʋ</g>nſeen, <g ref="char:V">Ʋ</g>nfelt,</hi> or <hi>Taſted</hi> in the <hi>Sacrament,</hi> is proved, by what we read in <hi>John</hi> 20.19.
+<hi>When</hi> Chriſt <hi>entred the Room where the Diſciples were Aſſembled, the Doors being faſt for fear of the</hi> Jews, <hi>and came, and ſtood, and ſpake in the mid'ſt of them. And after Eight days</hi> (as we read in the ſame Chap<g ref="char:EOLhyphen"/>ter, ver. 26.) Chriſt <hi>entred again, when the Doors were cloſe ſhut, and ſtood, and ſpake in the mid'ſt of the Diſciples:</hi> Now, that <hi>Chriſt</hi> was <hi>Intire</hi> when He
+<hi>ſtood,</hi> and <hi>ſpake</hi> in the mid'ſt of them, muſt be granted: But how came He thro'? was his Bo<g ref="char:EOLhyphen"/>dy <hi>Intire, Extended, Finite,</hi> and <hi>Circumſcribed</hi> with <hi>Limbs, Bones, Fleſh,</hi> and <hi>Sinews,</hi> when He entred thro' <hi>Walls</hi> or <hi>Doors</hi> that were cloſe? That He was <hi>Intire</hi> when He paſt thro', muſt be, by the <hi>Gentleman</hi>'s own <hi>Argument,</hi> as well as Mine, Of
+<hi>Chriſt</hi>'s being <hi>Not,</hi> but where He is <hi>Intire;</hi> wherefore, <hi>Chriſt</hi> was <hi>In<g ref="char:EOLhyphen"/>tire</hi> when He came thro', or He came not thro' at all: but <hi>Chriſt</hi> came <hi>Thro',</hi> was
+<hi>There,</hi> and was <hi>Intire</hi> too; for <hi>Chriſt</hi> is
+<hi>Not,</hi> but where He is <hi>Intire:</hi> Nay, ſuch is the infinite Pow<g ref="char:EOLhyphen"/>er of <hi>God,</hi> that tho' they were encloſed in <hi>Walls,</hi> every where a Mile thick, 'twould yet be poſſible for <hi>Chriſt</hi> to enter
+<hi>Intire</hi> thro' all, and return in the ſame Incomprehenſible manner: And, by the ſame Reaſon as <hi>Chriſt</hi>'s <hi>Body</hi> paſſeth
+<hi>Intire</hi> thro' <hi>Stone-Walls,</hi> by the ſame Reaſon his
+<hi>Body</hi> may be <hi>Intire</hi> in the <hi>Sacrament;</hi> and by the ſame <hi>Infinite Power,</hi> the <hi>Body</hi> of <hi>Chriſt</hi> may be in <hi>Heaven,</hi> and on <hi>Earth</hi> in <hi>Innumerable Places,</hi> at one and the ſame <hi>Time;</hi> the <hi>Gentleman</hi>'s <hi>Arguments</hi> (<hi>Pag.</hi> 16.) to the contrary, notwithſtanding. For that
+<hi>Chriſt</hi> hath ſaid, <hi>Mat.</hi> 18.20. <hi>That where Two or Three are gathered together in my Name, there am I</hi> (ſays Chriſt) <hi>in the mid'ſt of them:</hi> By which you ſee, that whereſoever the
+<hi>Faithful</hi> are Aſſembled together, in his <hi>Name,</hi> that
+<hi>Chriſt</hi> is there in the mid'ſt of them; <pb n="16" facs="tcp:97655:10"/>if then, <hi>Chriſt</hi> be in the mid'ſt of thoſe Aſſemblies, He is there <hi>Intire,</hi> or He is not there at all: But <hi>Chriſt,</hi> tho' Inviſible, is in the mid'ſt of them, or the <hi>Word</hi> deceives us; which to think, is <hi>Blaſphemy;</hi> it being, by <hi>God,</hi> again confirm'd, ſaying, <hi>Mat.</hi> 28.20. <hi>And loe, I am with you always, even unto the end of the World:</hi> By all which is proved, That
+<hi>Chriſt</hi> may as well be <hi>Intire</hi> in the <hi>Sacrament,</hi> as be <hi>Intire</hi> when he paſſeth thro' <hi>Walls</hi> and <hi>Doors,</hi> that are cloſe; as alſo it is proved, That <hi>Chriſt</hi> may be in more places than <hi>One,</hi> at the ſame <hi>Time;</hi> for, How many Aſſemblies of the <hi>Faithful</hi> are there in the World, that are gathered together in his <hi>Name,</hi> at the ſame Moment, and
+<hi>Chriſt</hi> in the mid'ſt of every of them? Nor can the
+<hi>Proteſtant Anſwerer</hi> ever be able to deny the ſame, without denying <hi>Chriſt</hi> to be a Perfect, and an Omnipotent <hi>God.</hi>
+            </p>
+            <p>Wherefore to his 10 <hi>Pag.</hi> where we find the
+<hi>Gentleman</hi> hot at the Word <hi rend="blackletterType">This,</hi> to know what it means, which, of it ſelf, wanteth Senſe; but to know its meaning here, ask the Queſtion, <hi>What?</hi> and our Saviour will reſolve you; where, <hi>Mat.</hi> 26.26. <hi>As they were Eating, Jeſus took Bread, and Bleſſed it, and Brake it, and gave it the Diſciples, and ſaid, Take, Eat, This is</hi> (what?) MY BODY; he did not, after he had Bleſſed it, ſay, <hi>Take, Eat, This is BREAD;</hi> but, <hi>Take, Eat, This is my BODY:</hi> than which, nothing can be more plain, than that it was his
+<hi>BODY;</hi> and that the Word <hi>Hoc,</hi> or <hi>This,</hi> referred thereto: For if it were to remain (as the <hi>Proteſtant Anſwerer</hi> ſays, <hi>Pag.</hi> 15.) as really and properly <hi>Bread,</hi> after
+<hi>Conſecration,</hi> as before, the Word <hi>Hoc,</hi> or <hi>This,</hi> in the <hi>Neuter Gender,</hi> had never been ap<g ref="char:EOLhyphen"/>plyed to a <hi>Subſtantive</hi> of the <hi>Maſculine;</hi> for it would be Non<g ref="char:EOLhyphen"/>ſenſe, and Improper to ſay, <hi>Hoc eſt Panis:</hi> Wherefore, it's plain, that the Word
+<hi>Hoc</hi> being of the <hi>Neuter,</hi> related proper<g ref="char:EOLhyphen"/>ly and truly to the Word <hi>Body,</hi> which is alſo of the <hi>Neuter;</hi> and not to the Word
+<hi>Bread,</hi> which is of the <hi>Maſculine:</hi> But, becauſe the
+<hi>Gentleman</hi> gives us our choice, let us ſuppoſe it otherwiſe, that the Word [<hi rend="blackletterType">This</hi>] referred to the <hi>BREAD,</hi>
+               <pb n="17" facs="tcp:97655:10"/>and not to the <hi>BODY;</hi> as ſuppoſe the Words had been thus, <hi>This BREAD is My BODY:</hi> It yet follows, that it is his
+<hi>BO<g ref="char:EOLhyphen"/>DY,</hi> and not that it was to remain <hi>BREAD;</hi> for that He had ſaid, It was his <hi>BODY:</hi> And altho' it was firſt <hi>BREAD,</hi> yet He afterwards concludes it to be his <hi>BODY;</hi> ſaying, <hi>TAKE, EAT, THIS IS MY BODY.</hi> But how plain ſoever <hi>God</hi> or <hi>Man</hi> could ſpeak, <hi>Sophiſters</hi> will find whereat to quibble; for the ſputter he makes at the Word <hi rend="blackletterType">This,</hi> is in<g ref="char:EOLhyphen"/>deed nothing elſe; and for ſuch the <hi>Gentleman</hi> deſigns it, as he doth all the reſt of his <hi>Arguments,</hi> by what appears in the ſame <hi>Page,</hi> (10.) where he aſſures me,
+<q rend="inline">"That <hi>They</hi> have not <hi>Faith</hi> to believe that, which the <hi>Scripture</hi> hath not Taught."—</q>From whence I gather, That notwithſtanding all his <hi>Argu<g ref="char:EOLhyphen"/>ments</hi> to diſprove the <hi>REAL PRESENCE;</hi> yet he hath not <hi>Faith</hi> (tho'
+<hi>Face</hi>) to deny it. For, that (<hi>Pag.</hi> 3.) he tells you,
+<q rend="inline">"That beſides their <hi>Poſitive Articles,</hi> they have a great many <hi>Negative Ones;</hi> and to require plain and expreſs Words of <hi>Scripture,</hi> to prove that ſuch a
+<hi>Doctrine</hi> is not there <hi>Taught,</hi> is to demand a Proof the thing is not capable of:"—</q>Wherefore the <hi>Gentleman,</hi> how Ingeniouſly ſoever he may argue againſt the <hi>REAL PRESENCE;</hi> yet he hath not <hi>Faith</hi> to believe, That in the <hi>Sacrament</hi> of the
+<hi>Lord's-Supper,</hi> is not contain'd the <hi>True, Real,</hi> and
+<hi>Subſtantial Body</hi> of <hi>Chriſt;</hi> for, that he hath not
+<hi>Faith</hi> to believe, what the <hi>Scripture</hi> hath not
+<hi>Taught;</hi> and the <hi>Scripture</hi> hath no where <hi>Taught,</hi> That in the <hi>Holy Sacrament</hi> of the <hi>Euchariſt,</hi> is not contain'd the <hi>Body</hi> and <hi>Blood</hi> of <hi>Chriſt:</hi> The
+<hi>Gentleman,</hi> therefore, can have no <hi>Faith</hi> to deny it; all his
+<hi>Arguments</hi> to the contrary, notwithſtanding.</p>
+            <p>But before we part his <hi>Tenth Page,</hi> let us note his (<hi>Where's:</hi>) <hi>Where</hi> (ſays he) <hi>is there one Word? Where, That this True Body and Blood? Where, That the Bread and Wine are, upon Conſecration, turn'd into the True Body and Blood of</hi> Chriſt?
+<hi>&amp;c.</hi> Which truly, are <hi>Where's</hi> indeed; and one ſhould think, that <pb n="18" facs="tcp:97655:11"/>ſo many <hi>Where's,</hi> were not without a
+<hi>Wherefore;</hi> And, be<g ref="char:EOLhyphen"/>cauſe the <hi>Gentleman</hi> deſires to know the <hi>Where,</hi> he ſhall alſo know the <hi>When:</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 26.26,27,28.</note>
+               <hi>Jeſus took BREAD, and Bleſſed it, and Brake it, and gave it to the Di<g ref="char:EOLhyphen"/>ſciples; and ſaid, TAKE, EAT, THIS IS MY BODY; and He took the C<g ref="char:V">Ʋ</g>P, and gave Thanks, and gave it to them; ſaying, Drink ye All of It; for, THIS IS MY BLOOD.</hi> And There it was, and Here it is, by Power of theſe Words of <hi>God, THIS IS MY BODY, THIS IS MY BLOOD,</hi> that the <hi>Bread</hi> and <hi>Wine</hi> are turn'd into the <hi>Body</hi> and <hi>Blood</hi> of <hi>Chriſt:</hi> He doth no ſay <hi>Here,</hi> as He did when He ſpake the <hi>Parable</hi> of the
+<hi>DOOR,</hi> the <hi>VINE,</hi> and the reſt, <hi>That this</hi> Parable
+<hi>ſpake He unto them;</hi> or, that this <hi>BREAD</hi> is <hi>Like,</hi> or <hi>Likened</hi> un<g ref="char:EOLhyphen"/>to his <hi>BODY,</hi> or a <hi>Figure</hi> of his
+<hi>BODY;</hi> but abſolutely, <hi>TAKE, EAT, THIS IS MY BODY:</hi> And for ſuch we ought to take it, and believe it, till the <hi>Proteſtant Anſwerer</hi> be able to produce as plain <hi>Scripture</hi> againſt it, as I have done for it.</p>
+            <p>The <hi>Gentleman</hi> proceeds, and (<hi>Pag.</hi> 11.) tells you, what their <hi>Church</hi> holds, (he ſhould have ſaid of the
+<hi rend="blackletterType">Real Preſence,</hi> for that was the <hi>Quaere</hi>) and delivers their Opinion in different manners; to wit:</p>
+            <p n="1">
+               <q rend="inline">1. "Our <hi>Church</hi> holds <hi>(ſays he,)</hi> That <hi rend="blackletterType">Tranſubſtantia<g ref="char:EOLhyphen"/>tion</hi> is Repugnant to the plain Words of <hi>Scripture,</hi> and o<g ref="char:EOLhyphen"/>verthroweth the nature of a
+<hi>Sacrament,</hi>" Art. 28.</q>
+            </p>
+            <p n="2">
+               <q rend="inline">2. "That the Sacramental <hi>Bread</hi> and
+<hi>Wine</hi> remain after Conſecration, in their natural Subſtances; and the natural <hi>Body</hi> and <hi>Blood</hi> of <hi>Chriſt,</hi> are in
+<hi>Heaven,</hi> and not Here. <hi>Rubr.</hi> after the <hi>Com.</hi>"</q>
+            </p>
+            <p n="3">
+               <q rend="inline">3. "That the <hi>Body</hi> of <hi>Chriſt</hi> is
+<hi>Given, Taken,</hi> and <hi>Eaten</hi> in the <hi>Supper</hi> only, after an
+<hi>Heavenly</hi> and <hi>Spiritual</hi> manner; and the means whereby the
+<hi>Body</hi> of <hi>Chriſt</hi> is <hi>Received</hi> and <hi>Eaten,</hi> is
+<hi>Faith,</hi> Art. 28, 29.—And in three Lines after, he tells you, That there is no other Subſtance diſtributed among the <hi>Com<g ref="char:EOLhyphen"/>municants,</hi> than that of <hi>Bread</hi> and <hi>Wine.</hi>"—</q>And theſe, put toge<g ref="char:EOLhyphen"/>ther, <pb n="19" facs="tcp:97655:11"/>make ſuch a <hi>Medley,</hi> that a Man knows not what to believe of it: Firſt, <hi>'Tis Repugnant to the plain Words of Scripture;</hi> tho' they are not able to produce one <hi>Syllable</hi> out of the whole <hi>Bible,</hi> to diſprove it. Secondly, <hi>The Natural Body and Blood of</hi> Chriſt <hi>are in Heaven, and not Here;</hi> tho', at the ſame time, they tell you, <hi>That the Body of CHRIST,</hi> (who had but
+<hi>One Body</hi>) <hi>is</hi> 
+               <hi rend="blackletterType">Given, Taken,</hi> and
+<hi rend="blackletterType">Eaten, in the Supper, after an Heavenly and Spiritual manner;</hi> and in <hi>Three Lines</hi> after, denies it again; which are ſuch <hi>Contradictions,</hi> that a <hi>Buſhel</hi> of
+<hi>Figures</hi> will ne're reconcile 'em: For, If the <hi>Body and Blood</hi> of <hi>Chriſt</hi> be confin'd in <hi>Heaven,</hi> and not in the
+<hi>Sacrament</hi> at all, How can the <hi>Body</hi> of <hi>Chriſt</hi> be
+<hi>Given, Taken, and Eaten</hi> in the <hi>Supper,</hi> after any manner,
+<hi>Heavenly</hi> or <hi>
+                  <g ref="char:V">Ʋ</g>nheavenly,</hi> if the <hi>Body</hi> of
+<hi>Chriſt</hi> be not There at all to be <hi>Given, Taken,</hi> or
+<hi>Eaten?</hi> or, how can the <hi>Body</hi> of <hi>Chriſt</hi> be (as he ſays) <hi>Given, Taken,</hi> and <hi>Eaten</hi> in the <hi>Supper;</hi> when, at the ſame time, he tells you,
+<q rend="inline">"There is no other Subſtance diſtributed to the <hi>Communicants,</hi> than that of <hi>Bread</hi> and
+<hi>Wine?</hi>"</q>
+            </p>
+            <p>As to the Words, <hi>Heavenly and Spiritual Manner,</hi> I would
+<hi>They</hi> did truly believe it ſo; for then <hi>They</hi> would believe it as We do; that is, That the <hi>Body</hi> of <hi>Chriſt</hi> is truly
+<hi>Given, Taken,</hi> and <hi>Eaten</hi> in the <hi>Sacrament,</hi> after an
+<hi>Heavenly</hi> and <hi>Spiritual Manner;</hi> for after a <hi>Carnal, Senſual Manner,</hi> We receive it not; but this <hi>Heavenly</hi> and
+<hi>Spiritual Manner,</hi> We believe to be a <hi>True</hi> and <hi>Real Manner;</hi> and not a <hi>Deceitful, Figurative, Ficti<g ref="char:EOLhyphen"/>tious Manner;</hi> as if all that is <hi>Heavenly,</hi> were but <hi>Figure</hi> and <hi>Fancy.</hi> If You grant the <hi>Body</hi> and <hi>Blood</hi> of <hi>Chriſt</hi> to be in the <hi>Sacrament,</hi> after a <hi>Spiritual Manner,</hi> you muſt alſo grant it <hi>There</hi> after a <hi>True Manner;</hi> or, to be <hi>There</hi> after a <hi>Spiritual Manner,</hi> is not to be <hi>There</hi> after a <hi>Real Manner:</hi> If <hi>Chriſt</hi> be <hi>There</hi> in <hi>Spirit,</hi> He is alſo <hi>There</hi> in <hi>Truth;</hi> and if <hi>There</hi> in
+<hi>Spirit</hi> and <hi>Truth,</hi> all my <hi>Arguments</hi> are granted, by the <hi>Gentle<g ref="char:EOLhyphen"/>man</hi>'s own Conceſſions, as well as Mine, Of
+<hi>CHRIST</hi>'s being <hi>Not,</hi> but where he is <hi>Intire:</hi> Wherefore, if <hi>Chriſt</hi> be in <pb n="20" facs="tcp:97655:12"/>the
+<hi>Sacrament</hi> after any <hi>Manner,</hi> He is <hi>There</hi> after ſuch an <hi>In<g ref="char:EOLhyphen"/>tire, Real,</hi> and <hi>Subſtantial Manner,</hi> as We believe and profeſs Him, or He is in no <hi>Manner There</hi> at all; for
+<hi>Chriſt</hi> is <hi>Not</hi> at all, but where He <hi>Truly</hi> and
+<hi>Intirely</hi> is.</p>
+            <p>In the <hi>Twelfth</hi> and <hi>Thirteenth Pages</hi> of the
+<hi>Proteſtant An<g ref="char:EOLhyphen"/>ſwer,</hi> the <hi>Gentleman</hi> produceth all the
+<hi>Scriptures</hi> he had, or at leaſt, all the chiefeſt <hi>Texts</hi> he could, to diſprove our Doctrine of the <hi rend="blackletterType">Real Preſence,</hi> and Being of <hi>CHRIST</hi>'s <hi>BODY</hi> and
+<hi>BLOOD</hi> in the <hi>Sacrament:</hi> Which <hi>Scriptures,</hi> by Him produced <hi rend="blackletterType">Againſt</hi> it, together with thoſe by Me alledged and aſſigned <hi rend="blackletterType">For</hi> it, are as followeth:</p>
+            <list>
+               <head>The Catholick Texts for the Real Preſence.</head>
+               <item>
+                  <label>I. St. John 6. v. 48.</label> I am that Bread of Life, ſays Chriſt.</item>
+               <item>
+                  <label>II. Verſ. 49.</label> Your Fathers did eat Manna in the Wilderneſs, and are Dead.</item>
+               <item>
+                  <label>III. Ver. 50.</label> This is the Bread which cometh down from Heaven, that a Man may Eat thereof, and not Die.</item>
+               <item>
+                  <label>IV. Verſ. 51.</label> I am the Living Bread, which came down from Heaven; If any Man Eat of this Bread, he ſhall Live for ever; and the Bread that I will give, <hi rend="blackletterType">is my Fleſh,</hi> which I will give for the Life of the World.</item>
+               <item>
+                  <label>V. Verſ. 54.</label> Whoſo Eateth my
+<pb n="21" facs="tcp:97655:12"/>Fleſh, and Drinketh my Blood, hath Eternal Life, and I will raiſe him up at the laſt Day.</item>
+               <item>
+                  <label>VI. Verſ. 55.</label> For my Fleſh is Meat indeed, and my Blood is Drink indeed.</item>
+               <item>
+                  <label>VII. Verſ. 56.</label> He that Eateth my Fleſh, and Drinketh my Blood, dwelleth in Me, and I in Him.</item>
+               <item>
+                  <label>VIII. Verſ. 57.</label> As the Living Father hath ſent Me, and I live by the Father; ſo he that Eateth Me, even he ſhall Live by Me.</item>
+               <item>
+                  <label>IX. Verſ. 58.</label> This is that Bread which came down from Heaven: Not as your Fathers did eat Manna, and are Dead: He that Eateth of this Bread, ſhall Live for ever.</item>
+               <item>
+                  <label>X. St. Matt. 26. v. 26.</label> And as they were Eating, Jeſus took Bread, and Bleſſed it, and brake it, and gave it to the Diſciples; and ſaid, Take, Eat, <hi rend="blackletterType">This is my Body.</hi>
+               </item>
+               <item>
+                  <label>XI. Verſ. 27.</label> And he took the Cup, and gave Thanks, and gave it to them; ſaying, Drink ye all of it.</item>
+               <item>
+                  <label>XII. Verſ. 28.</label> For, <hi rend="blackletterType">This is my Blood</hi> of the New Teſta<g ref="char:EOLhyphen"/>ment, which is ſhed for many, for the Remiſſion of Sins.</item>
+               <pb n="22" facs="tcp:97655:13"/>
+               <item>
+                  <label>XIII. St. Mark 14. v. 22.</label> And as they did Eat, Jeſus took Bread and Bleſſed, and brake it, and gave to them, and ſaid, Take, Eat, <hi rend="blackletterType">This is my Body.</hi>
+               </item>
+               <item>
+                  <label>XIV. Verſ. 23.</label> And He took the Cup, and when he had given Thanks, he gave it to them, and they all Drank of it.</item>
+               <item>
+                  <label>XV. Verſ. 24.</label> And He ſaid unto them,
+<hi rend="blackletterType">This is my Blood</hi> of the New Teſtament, which is ſhed for many.</item>
+               <item>
+                  <label>XIV. St. Luk. 22. v. 19.</label> And He took Bread, and gave Thanks, and Brake it, and gave unto them; ſaying, <hi rend="blackletterType">This is my Body,</hi> which is given for you; This do in Re<g ref="char:EOLhyphen"/>membrance of Me.</item>
+               <item>
+                  <label>XVII. Verſ. 20.</label> Likewiſe al<g ref="char:EOLhyphen"/>ſo the Cup after Supper; ſaying, This <hi rend="blackletterType">Cup</hi> is the New Teſtament in <hi rend="blackletterType">My Blood,</hi> which is Shed for you.</item>
+               <item>
+                  <label>XVIII. 1 Cor. 11. v. 23.</label> For I have Receiv'd of the LORD, that which alſo I Deliver'd unto you; That the Lord JES<g ref="char:V">Ʋ</g>S, the ſame Night in which He was Betray'd, took Bread.</item>
+               <item>
+                  <label>XIX. Verſ. 24.</label> And when He had given Thanks, He Brake it; <pb n="23" facs="tcp:97655:13"/>and ſaid, Take, Eat, <hi rend="blackletterType">This is my Body,</hi> which is Broken for you; This do in Remembrance of Me.</item>
+               <item>
+                  <label>XX. Verſ. 25.</label> After the ſame manner alſo, He took the Cup, when He had Supp'd; ſaying, This <hi rend="blackletterType">Cup</hi> is the new Teſtament in my <hi rend="blackletterType">Blood;</hi> This do ye, as oft as ye Drink it, in Remembrance of Me.</item>
+               <item>
+                  <label>XXI. Verſ. 26.</label> For as often as ye Eat this Bread, and Drink this Cup, ye do ſhew the LORD's Death till He come.</item>
+               <item>
+                  <label>XXII. Verſ. 27.</label> Wherefore, whoſoever ſhall Eat this Bread, and Drink this Cup of the LORD <g ref="char:V">Ʋ</g>nworthily, ſhall be guilty of the Body and Blood of the LORD.</item>
+               <item>
+                  <label>XXIII. Verſ. 28.</label> But let a Man Examine himſelf, and ſo let him Eat of that Bread, and Drink of that Cup.</item>
+               <item>
+                  <label>XXIV. Verſ. 29.</label> For he that Eateth and Drinketh <g ref="char:V">Ʋ</g>nworthily, Eateth and Drinketh Damnation to himſelf, not diſcerning the LORD's Body.</item>
+            </list>
+            <list>
+               <pb n="20" facs="tcp:97655:12"/>
+               <head>The Proteſtant Texts againſt It.</head>
+               <item>
+                  <label>I 1 Cor. 11. v. 23, 24.</label> The Lord JES<g ref="char:V">Ʋ</g>S, the ſame Night in which He was Betray'd, took Bread; and, when He had gi<g ref="char:EOLhyphen"/>ven Thanks, He brake it, and ſaid; Take, Eat, <hi rend="blackletterType">This is my Body,</hi> which is Broken for you; this do in Remembrance of Me.</item>
+               <item>
+                  <label>II. St. Mat. 26. v. 27, 28, 29.</label> And He took the Cup, and gave Thanks, and gave it to them; ſaying, Drink ye all of it; for,
+<hi rend="blackletterType">This is my Blood</hi> of the New Teſtament, which is ſhed for many for the Remiſ<g ref="char:EOLhyphen"/>ſion of Sins: I will not Drink henceforth of this Fruit of the <pb n="21" facs="tcp:97655:12"/>Vine, until I drink it New with you in my Father's Kingdom.</item>
+               <item>
+                  <label>III. St. Mar. 14. v. 23, 24.</label> And He took the Cup, and when He had given Thanks, He gave it to them, and they all drank of it; and He ſaid unto them, <hi rend="blackletterType">This is my Blood</hi> of the New Teſtament, which is Shed for many.</item>
+               <item>
+                  <label>IV. St. Luk. 22. v. 19, 20.</label> And He took Bread, and gave Thanks, and Brake it, and gave unto them; ſaying, <hi rend="blackletterType">This is my Body,</hi> which is given for you; This do in Remem<g ref="char:EOLhyphen"/>brance of Me: Likewiſe alſo the Cup after Supper; ſaying, This Cup is the New Teſtament in my Blood, which is Shed for you.</item>
+               <item>
+                  <label>V. Act. 2. v. 42.</label> They con<g ref="char:EOLhyphen"/>tinued ſtedfaſt in the Apoſtles Doctrine and Fellowſhip, and in Breaking of Bread.</item>
+               <item>
+                  <label>VI. Act. 20. v. 7.</label> 
+                  <g ref="char:V">Ʋ</g>pon the Firſt Day of the Week, when the Diſcipies came together to break Bread.</item>
+               <item>
+                  <label>VII. 1 Cor. 10. v. 16, 17.</label> The Cup of Bleſſing, which we bleſs, Is it not the Communion <pb n="22" facs="tcp:97655:13"/>of the <hi rend="blackletterType">Blood</hi> of CHRIST? The Bread which we break, Is it not the Communion of the <hi rend="blackletterType">Body</hi> of CHRIST? For We being many, are one Bread, and one Body; for We are all Partakers of that one Bread.</item>
+               <item>
+                  <label>VIII. 1 Cor. 11. v. 26.</label> For as often as ye eat this Bread, and drink this Cup, ye do ſhew the LORD's Death till He come.—Whoſoever ſhall eat this Bread, and drink this Cup of the LORD <g ref="char:V">Ʋ</g>nworthily.—Let a Man examine himſelf, &amp; ſo let him eat of that Bread, and drink of that Cup.</item>
+               <item>
+                  <label>IX. Act. 1. v. 11.</label>—This ſame JES<g ref="char:V">Ʋ</g>S, who is taken up from you into Heaven, ſhall ſo come in like manner, as ye have ſeen Him go into Hea<g ref="char:EOLhyphen"/>ven.</item>
+               <item>
+                  <label>X. Act. 3. v. 21.</label> Whom the Heaven muſt Receive, until the Times of the Reſtitution of all Things.—</item>
+               <item>
+                  <label>XI. St. Luk. 24. v. 39.</label> Be<g ref="char:EOLhyphen"/>hold my Hands, and my Feet, that it is I my Self: Handle Me, and ſee; for a Spirit hath
+<pb n="23" facs="tcp:97655:13"/>not Fleſh and Bones, as ye ſee Me have.</item>
+               <item>
+                  <label>XII. Act. 1. v. 3.</label> To whom alſo He ſhewed himſelf alive, after his Paſſion.—Being ſeen of them Forty Days.</item>
+               <item>
+                  <label>XIII. 1 Joh. 1. v. 1.</label>—Which we have ſeen with our Eyes, which we have look'd upon, and our Hands have handled.</item>
+               <item>
+                  <label>XIV. Heb. 9. v. 28.</label> So CHRIST was once Offer'd, to bear the Sins of many; and unto them that look for Him, ſhall He appear the Second Time.</item>
+               <item>
+                  <label>XV. Heb. 10. v. 12.</label>—This MAN, after He had Offer'd one Sacrifice for Sins, for ever ſate down on the Right Hand of GOD.</item>
+               <item>
+                  <label>XVI. Phil. 3. v. 21.</label> Chriſt has a Glorious BODY.</item>
+            </list>
+            <p>Thus having truly laid down the <hi>Scriptures</hi> on both ſides, I doubt not but it doth appear, that the <hi>Texts</hi> brought on the
+<hi>Catholick Part,</hi> are abundantly ſufficient and plain for the Being of
+<hi>Chriſt's Body</hi> and <hi>Blood</hi> in the <hi>Sacrament;</hi> and that
+<pb n="24" facs="tcp:97655:14"/>Thoſe produced on the <hi>Proteſtant Part,</hi> are alſo expreſly <hi>For</hi> it, or not at all <hi rend="blackletterType">Againſt</hi> it; for that it is impoſſible to bring one <hi>Text</hi> out of the whole <hi>Bible,</hi> to prove, That the
+<hi>Body</hi> and <hi>Blood</hi> of <hi>Chriſt</hi> is not in the
+<hi>Sacrament,</hi> as in effect is confeſſed by the <hi>Proteſtant Anſw. Pag.</hi> 3. where he ſays,
+<q rend="inline">"That the <hi>Church</hi> of <hi>England</hi> do hold ſeveral <hi>Doctrines,</hi> which are not contain'd in Expreſs Words in <hi>Scripture;</hi> for <hi>(ſays he)</hi> beſides their <hi>Poſitive Articles,</hi> they have a great many <hi>Negative Ones:</hi>—So that to require plain and expreſs Words of <hi>Scripture,</hi> to prove that ſuch a
+<hi>Doctrine</hi> is not there Taught, is (ſays he) to demand a Proof, the thing is not capable of."—</q>Where<g ref="char:EOLhyphen"/>fore, the denying of the
+<hi rend="blackletterType">Real Preſence</hi> being one of their <hi>Negative Doctrines</hi> or <hi>Articles;</hi> it's plain, That the <hi>Gentleman</hi> doth not pretend to produce thoſe <hi>Texts</hi> to prove, That the
+<hi>Body</hi> and <hi>Blood</hi> of <hi>Chriſt</hi> is not in the
+<hi>Sacrament;</hi> but lays 'em before you, hoping you'll think they do, becauſe the Word <hi>Bread</hi> is mentioned (ſays he, <hi>Pag.</hi> 15.)
+<hi>Five times by St.</hi> Paul, <hi>after he recited the Inſtitution.</hi> Very good! and why not the Word <hi>BREAD,</hi> I pray, as well as the Word
+<hi>C<g ref="char:V">Ʋ</g>P,</hi> ſeeing by the Word <hi>BREAD</hi> is meant the
+<hi>Communion</hi> of the <hi>Body</hi> of <hi>Chriſt;</hi> as by the Word
+<hi>C<g ref="char:V">Ʋ</g>P,</hi> (1 <hi>Cor.</hi> 10.16,17.) is ſignified the
+<hi>Communion</hi> of the <hi>Blood</hi> of <hi>Chriſt?</hi> And beſides, St. <hi>Paul</hi> mentions not the Words <hi>C<g ref="char:V">Ʋ</g>P</hi> and <hi>BREAD,</hi> but he explains them to be the <hi>Body</hi> and <hi>Blood</hi> of
+<hi>Chriſt;</hi> as, 1 <hi>Cor.</hi> 11.26. where he tells ye, <hi>As often as ye Eat this BREAD, and Drink this C<g ref="char:V">Ʋ</g>P, ye do ſhew the Lord's Death till He come;</hi> which Death of the <hi>Lord</hi> was not ſhewn, but by Offering up of his True and Real <hi>Body</hi> and <hi>Blood:</hi> And <hi>Ver.</hi> 27. he tells ye, <hi>Whoſoever ſhall Eat this BREAD, and Drink this C<g ref="char:V">Ʋ</g>P of the LORD <g ref="char:V">Ʋ</g>NWORTHILY, ſhall be guilty of the BODY and BLOOD of the</hi> LORD: Wherefore, if it were not the <hi>Body</hi> and <hi>Blood</hi> of the LORD, how could they be guilty of the <hi>Body</hi> and <hi>Blood,</hi> if the
+<hi>Body</hi> and <hi>Blood</hi> be not there to be guilty of? And further,
+<hi>Ver.</hi> 28, 29, <hi>He that Eateth and <pb n="25" facs="tcp:97655:14"/>Drinketh <g ref="char:V">Ʋ</g>NWORTHILY, Eateth and Drinketh DAM<g ref="char:EOLhyphen"/>NATION to himſelf, not diſcerning the LORD's BODY:</hi> which ſtill confirms it to be the <hi>BODY</hi> of the LORD; or, how doth he ſay, <hi>Condemn'd, not diſcerning the</hi> LORD<hi>'s BODY,</hi> if the <hi>Body</hi> of the LORD be not there to be
+<hi>diſcerned?</hi> Wherefore St. <hi>Paul</hi> ſpeaketh not, but in Confirmation of its being the <hi>Body</hi> and <hi>Blood</hi> of
+<hi>CHRIST;</hi> or 'twould be hard, a <hi>Sinner</hi> ſhould be Damn'd, meerly for Moderate <hi>Eating</hi> and <hi>Drinking</hi> of bare
+<hi>Bread</hi> and <hi>Wine:</hi> For, according to the <hi>Pro<g ref="char:EOLhyphen"/>teſtant Anſwerer,</hi> the <hi>Sacrament</hi> is no more; who tells you,
+<hi>Pag.</hi> 11.
+<q rend="inline">"That there is no other Subſtance diſtributed among the <hi>Communicants,</hi> than that of <hi>Bread</hi> and
+<hi>Wine:</hi>"</q> And <hi>Pag.</hi> 15.
+<q rend="inline">"That they are as really and properly
+<hi>Bread</hi> and <hi>Wine,</hi>"</q> after <hi>Conſecration,</hi> as before.</p>
+            <p>And further, The ſaid <hi>Texts</hi> are laid before You; for that, in ſome of them, it is ſaid, <hi>THIS DO IN REMEM<g ref="char:EOLhyphen"/>BRANCE OF ME:</hi> To which I Anſwer, and ſay, That thoſe Words, <hi>This do in Remembrance of Me,</hi> do no way Relate to the <hi>Laiety,</hi> who only receive the
+<hi>Sacrament;</hi> but to the <hi>Prieſts,</hi> who Conſecrate and Adminiſter the <hi>ſame;</hi> for it is no where ſaid, <hi>This Eat, This Take, This Receive;</hi> but, <hi>This do in Re<g ref="char:EOLhyphen"/>membrance of Me;</hi> whereas it is not at all the Office of the <hi>Laiety,</hi> (nor have they the Power to do as our <hi>Saviour</hi> then did, Bleſs and Adminiſter the
+<hi>Sacrament</hi> of his <hi>Body</hi> and <hi>Blood</hi> to
+<hi>Them<g ref="char:EOLhyphen"/>ſelves</hi> or <hi>Others;</hi>) but the Office of the
+<hi>Prieſts,</hi> to whom was given (by theſe Words, <hi>This do,</hi> &amp;c.) a particular Power to do the ſame as <hi>Chriſt</hi> then did, Take <hi>Bread</hi> and <hi>Wine,</hi> Bleſs it, and Adminiſter it, as he did for his <hi>Body,</hi> and his <hi>Blood.</hi>
+            </p>
+            <p>Nor do the Words <hi>IN REMEMBRANCE</hi> any way ſerve Their turn; for, as You unanſwerably have obſerved, (<hi>Pag.</hi> 7. of your
+<hi>Requeſt,</hi>) <hi>That the Remembrance of its Being, doth no way make it ceaſe to Be;</hi> which <hi>Argument</hi> the <hi>Proteſtant Anſwerer</hi> would fain Confute; where, <hi>Pag.</hi> 19. he tells You,
+<q rend="inline">"Tho' the Remembrance of its Being, do no way make it ceaſe to <pb n="26" facs="tcp:97655:15"/>Be; yet <hi>(ſays he)</hi> it ſuppoſeth the Abſence of the Being:"</q> which is to ſuppoſe the <hi>Body</hi> to be Preſent and Abſent at the ſame Time: A piece of <hi>Sophiſtry</hi> ſo weak, as I admire a Man of Senſe ſhould inſiſt thereon; as if my
+<hi>Remembrance</hi> of your being with me, when preſent, did any way ſuppoſe your Ab<g ref="char:EOLhyphen"/>ſence from me, at the ſame time: It is ſurely
+<hi>Nonſenſe</hi> to think, That the <hi>Remembrance</hi> of a Thing preſent, did, or could in the leaſt, ſuppoſe the Abſence of the ſame Thing, at the ſame time; for, tho' it be confeſs'd, we may
+<hi>Remember</hi> the <hi>Being</hi> of a Thing, when Abſent; yet the
+<hi>Remembrance</hi> of the ſame Thing, when Preſent, doth not at all ſuppoſe the <hi>Abſence</hi> and the <hi>Preſence</hi> too, of the ſame Thing, at one and the ſame time: Wherefore the <hi>Remembrance</hi> of
+<hi>Chriſt</hi>'s <hi>Body</hi> and <hi>Blood</hi>'s being Preſent in the
+<hi>Sacrament,</hi> doth no ways ſuppoſe the <hi>Abſence</hi> of the
+<hi>Being,</hi> nor make the <hi>Being</hi> ceaſe to <hi>Be.</hi>
+            </p>
+            <p>And further, The ſaid <hi>Scriptures</hi> are produced; for that, in ſome of them, it is ſaid, <hi>THIS IS MY BODY, which is Broken for you,</hi>
+               <q rend="inline">"Before (<hi>ſays he, Pag.</hi> 14.) it was Broke:"</q> Whence he concludes it not to be the <hi>Body</hi> of
+<hi>CHRIST,</hi> becauſe (as he conceives) the <hi>Body</hi> of
+<hi>CHRIST</hi> was not <hi>Then</hi> Broke. But before We proceed, 'tis requiſite to inform your Self, whe<g ref="char:EOLhyphen"/>ther <hi>CHRIST</hi> had <hi>Two Bodies,</hi> One <hi>Figurative,</hi> and the Other <hi>Real;</hi> I ſuppoſe, 'twill be reſolved, that <hi>CHRIST</hi> had but <hi>One Body;</hi> and that was a <hi>True, Real,</hi> and <hi>Subſtantial Body;</hi> and not a <hi>Figurative</hi> or <hi>Deluſive Body:</hi> Wherefore, if
+<hi>CHRIST</hi> had but <hi>One Body,</hi> 'twas of that <hi>Body</hi> he ſpake, when He ſaid, <hi>THIS IS MY BODY, which is Broken for you;</hi> and to doubt, that what <hi>CHRIST</hi> ſaid, was either Improper or Untrue, is to profeſs our ſelves <hi>Infidels</hi> and <hi>Jews</hi> at once; for none but ſuch, can queſtion <hi>GOD</hi>'s Veracity: Wherefore, as what he ſaid, was certainly true; ſo it was undoubtedly proper, when he ſaid,
+<hi>Which is BROKEN FOR YO<g ref="char:V">Ʋ</g>.</hi> For proof whereof, I anſwer, That tho' his <hi>Natural Body</hi> be <hi>There,</hi> yet the man<g ref="char:EOLhyphen"/>ner of its Being, is
+<hi>Spiritual</hi> and <hi>Sacramental;</hi> and the man<g ref="char:EOLhyphen"/>ner
+<pb n="27" facs="tcp:97655:15"/>of its <hi>Breaking,</hi> follows the manner of its
+<hi>Being;</hi> his <hi>Body</hi> is <hi>There Broken</hi> in the
+<hi>Sign,</hi> not in the <hi>Subſtance:</hi> Moreover thoſe Words,
+<hi>WHICH IS BROKEN,</hi> do prove (as the <hi>Holy Catholick Church</hi> always did, and ever will hold) it to be a <hi>True and Proper Sacrifice;</hi> for the <hi>Being Broken,</hi> does explain the nature of a <hi>Sacrifice,</hi> which imports the deſtruction of the Thing Offered, if <hi>Corruptible,</hi> and lyable to <hi>Deſtruction:</hi> But the <hi>Body</hi> of <hi>CHRIST</hi> being <hi>Incorruptible</hi> and <hi>Immortal,</hi> can't be really hurt; therefore, the manner of <hi>Breaking,</hi> is only <hi>Myſtical</hi> and
+<hi>Repreſentative:</hi> But if this manner of <hi>Breaking</hi> do not pleaſe the <hi>Gentleman,</hi> let us (to verifie the Words of
+<hi>Chriſt,</hi> whoſe Truth he ſo much doubts) ſee, whether the
+<hi>Body</hi> of <hi>Chriſt</hi> were not otherwiſe <hi>Broke,</hi> before He <hi>Inſtituted</hi> the <hi>Sacrament;</hi> or rather, whether his
+<hi>Body</hi> had not been <hi>Pierced,</hi> and his <hi>Blood</hi> had not been <hi>Spilt;</hi> for that it is written, <hi>John</hi> 19.36. <hi>A Bone of Him ſhall not be broke:</hi> And another <hi>Scrip<g ref="char:EOLhyphen"/>ture</hi> ſaith,
+<hi>Ibid.</hi> Ver. 37. <hi>They ſhall look on Him whom they Pierced:</hi> Wherefore, the <hi>Body</hi> of <hi>CHRIST</hi> was not other<g ref="char:EOLhyphen"/>wiſe
+<hi>Naturally Broken,</hi> than by <hi>Piercing</hi> of his <hi>Body,</hi> and
+<hi>Spil<g ref="char:EOLhyphen"/>ling</hi> of his <hi>Blood.</hi> Now, that his <hi>Body,</hi> at that time, had been <hi>Pierced,</hi> and his <hi>Blood</hi> had been
+<hi>Spilt,</hi> appears, <hi>&amp;c.</hi> when at <hi>Eight Days Old</hi> He began to ſmart for us: Which <hi>Piercing</hi> of his <hi>Fleſh,</hi> and
+<hi>Spilling</hi> of his <hi>Blood,</hi> at his <hi>Circumciſion,</hi> was fol<g ref="char:EOLhyphen"/>lowed by <hi>
+                  <g ref="char:V">Ʋ</g>nſpeakable Pains, Reſtleſs Labours, Travels,</hi> and
+<hi>Faſtings;</hi> inſomuch, that his whole <hi>Life,</hi> from the Hour of his <hi>Birth,</hi> to the Moment of his <hi>Death,</hi> was but <hi>One Paſſion-continued:</hi> What, I pray, his <hi>Agony</hi> in the
+<hi>Garden?</hi> What His being <hi>Crown'd</hi> with <hi>Thorns,</hi> and
+<hi>Bloody Whipping</hi> at the <hi>Pillar?</hi> That, in the Opinion of this
+<hi>Gentleman,</hi> his <hi>Body</hi> was not at all <hi>Broke,</hi> nor his
+<hi>Blood</hi> in the leaſt <hi>Shed,</hi> till Conſummate for us upon the
+<hi>Croſs:</hi> Wherefore, with Truth, our <hi>Saviour</hi> might have ſaid of his <hi>Body</hi> which is <hi>Broke,</hi> and of his <hi>Blood</hi> which is <hi>Shed,</hi> without ſuppoſing that any thing he ſaid, was either Improper or Untrue.</p>
+            <p>
+               <pb n="28" facs="tcp:97655:16"/>And the ſaid <hi>Scriptures</hi> are produced, for that it is ſaid, <hi>I will not drink henceforth of this fruit of the Vine, until I drink it new with you in my Fathers Kingdom;</hi> which our <hi>Saviour</hi> might have ſaid, and not at all Recal his firſt Aſſurance: for we do not deny the uſe of <hi>Figures</hi> in
+<hi>Expreſſion;</hi> as the Word <hi>C<g ref="char:V">Ʋ</g>P,</hi> for his <hi>Blood</hi> contain'd in it; and the Word <hi>BREAD,</hi> for his <hi>Body</hi> contain'd under that Form: But there is no <hi>Fi<g ref="char:EOLhyphen"/>gure</hi> in this <hi>Myſtery</hi> which excludes, but aſſerts the Reality of <hi>CHRIST</hi>'s <hi>Body</hi> and <hi>Blood</hi> in the <hi>Sacrament:</hi> For the terms <hi>C<g ref="char:V">Ʋ</g>P</hi> and
+<hi>BREAD,</hi> ſometimes uſed by the <hi>Apoſtles</hi> after the
+<hi>Inſtitution,</hi> as by us at this day, do not at all deſtroy the
+<hi>Sub<g ref="char:EOLhyphen"/>ſtance,</hi> for which our <hi>Saviour</hi> gave them, when he ſaid; <hi>EAT, THIS IS MY BODY; DRINK, THIS IS MY BLOOD:</hi> Nor do I ſee, what Reaſon they have to Carp at either of the ſaid Terms, <hi>C<g ref="char:V">Ʋ</g>P</hi> or <hi>BREAD,</hi> ſeeing Both are explained by St. <hi>Paul,</hi> 1
+<hi>Cor.</hi> 10.16,17. One for the <hi>Communion</hi> of the <hi>Blood,</hi> the Other for the <hi>Communion</hi> of the <hi>Body</hi> of <hi>Chriſt:</hi> Nor do the Words of our <hi>Saviour,</hi> where he ſpeaks of the <hi>Fruit of the Vine,</hi> ſignifie the <hi>Wine</hi> which was <hi>Conſecrated</hi> into his <hi>Blood;</hi> for that they were ſpoken of the <hi>C<g ref="char:V">Ʋ</g>P,</hi> whereof they Drank at <hi>Supper;</hi> and not of the <hi>Conſecrated C<g ref="char:V">Ʋ</g>P,</hi> which He <hi>Inſtituted</hi> not till after <hi>Supper;</hi> as appears by St. <hi>Luke,</hi> who gives the plaineſt Order of it,
+<hi>Chap.</hi> 22.14,15,16,17,18. where it is ſaid, <hi>And when the Hour was come, He ſate down, and the Twelve Apoſtles with Him: And He ſaid unto Them, With deſire, I have deſired to Eat this Paſſover with You, before I Suffer: For I ſay unto You, I will not any more EAT thereof, until it be fulfilled in the Kingdom of</hi> God. <hi>And He took the Cup, and gave Thanks, and ſaid, Take This, and divide it among your ſelves: For I ſay unto You, I will not drink of the Fruit of the Vine, until the King<g ref="char:EOLhyphen"/>dom of</hi> God
+<hi>ſhall come.</hi> Where you ſee, our <hi>Saviour</hi> ſpoke of not
+<hi>EATING,</hi> as well as not <hi>DRINKING;</hi> that is, of the <hi>Paſcal Lamb</hi> and <hi>Cup</hi> at <hi>Supper:</hi> for that He did not
+<hi>Inſtitute</hi> the <hi>Sacrament</hi> of his <hi>Body</hi> and
+<hi>Blood</hi> till afterwards; as we read, <pb n="29" facs="tcp:97655:16"/>
+               <hi>Ver.</hi>
+19, 20. That, <hi>He took Bread, and gave Thanks, and brake it, and gave unto them; ſaying, This is my Body, which is given for You; This do in Remembrance of me. Likewiſe alſo the C<g ref="char:V">Ʋ</g>P after S<g ref="char:V">Ʋ</g>PPER; ſaying, This C<g ref="char:V">Ʋ</g>P is the New Teſtament in my Blood, which is ſhed for you:</hi> Wherefore, we are to diſtinguiſh the <hi>C<g ref="char:V">Ʋ</g>P,</hi> which He bid them divide at
+<hi>Supper,</hi> and of which He ſaid, He would not Drink until the
+<hi>Kingdom</hi> of <hi>God ſhall come;</hi> from the <hi>C<g ref="char:V">Ʋ</g>P,</hi> which He Bleſſed, and gave to them after <hi>Supper;</hi> ſaying, <hi>It was his Blood;</hi> for nothing can be more plain, than that what our
+<hi>Saviour</hi> ſaid of <hi>not Eating,</hi> and <hi>not Drinking,</hi> was of the <hi>Paſſover</hi> or <hi>Sacrifice,</hi> according to the
+<hi>Law;</hi> and not of the <hi>New Sacrifice,</hi> or <hi>Teſtament in his Blood,</hi> according to the <hi>Goſpel:</hi> But if this Order, wherein St.
+<hi>Luke</hi> hath it, which ſpeaks of <hi>Two Cups,</hi> and which is certainly true, be not acceptable to the <hi>Obſtinate,</hi> let us ſuppoſe it otherwiſe, and that the Words, <hi>Fruit of the Vine,</hi> were (as they were not) ſaid of the <hi>Conſecrated Cup;</hi> it would yet follow, That the meaning of them could in no wiſe be applyed to the
+<hi>Subſtance</hi> of <hi>Wine,</hi> proceeding from an <hi>Earthly Vine;</hi> but to the <hi>Sub<g ref="char:EOLhyphen"/>ſtance</hi> of his <hi>Blood,</hi> the
+<hi>Fruit</hi> of the <hi>Heavenly Vine:</hi> For that it was to be Drank
+<hi>New</hi> with them in His <hi>Father's Kingdom;</hi> and in His
+<hi>Father's Kingdom,</hi> which is <hi>Heaven,</hi> they neither keep
+<hi>Taverns,</hi> nor Drink <hi>Wine,</hi> the <hi>Fruit</hi> therefore of the
+<hi>Vine,</hi> ſerves for neither <hi>Fruit</hi> nor <hi>Wine</hi> to them.</p>
+            <p>As to what the <hi>Gentleman</hi> ſays (<hi>Pag.</hi> 15.) of the Order ob<g ref="char:EOLhyphen"/>ſerv'd in St. <hi>Mark</hi>'s Relation of it;—<q rend="inline">"Who ſaith, <hi>(ſays the Proteſtant Anſwerer)</hi> That all the Apoſtles firſt Drank of the <hi>Cup;</hi> and that then our <hi>Saviour</hi> ſaid unto them, <hi>THIS IS MY BODY,</hi>" Chap. 14. v. 23, 24.—</q>For my part, I find no ſuch thing in St.
+<hi>Mark,</hi> as, <hi>That all the Apoſtles firſt Drank of the Cup;</hi> and then that our <hi>Saviour</hi> ſhould tell them; <hi>It was his Body:</hi> Wherefore it's a great Miſtake 'twixt the <hi rend="blackletterType">Writer,</hi> and the <hi rend="blackletterType">Printer;</hi> and when they Mend their <hi>Bill,</hi> We'll <hi>Anſwer:</hi> But (in the mean time) whether St. <hi>Mark</hi> ex<g ref="char:EOLhyphen"/>preſſeth <pb n="30" facs="tcp:97655:17"/>the Words in the ſame Order as they were ſpoke, or no, it matters not; ſeeing he has the Subſtance of what was ſaid, and wherein they all agree; to wit, That it was his <hi rend="blackletterType">Body,</hi> and his
+<hi rend="blackletterType">Blood:</hi> And it's alſo apparent, That
+<hi>CHRIST</hi> firſt <hi>Gave Thanks, and Bleſſed it,</hi> before He
+<hi>Gave it;</hi> and before He gave it, they could not have it; nor before they had it, could they either Eat it, or Drink it.</p>
+            <p>The <hi>Gentleman</hi> continues (<hi>Pag.</hi> 15.) to tell you,
+<hi>That the Letter is for Them,</hi> (meaning, That in the <hi>Sacrament</hi> is not contain'd the <hi>Body</hi> of <hi>CHRIST;</hi>) for, <hi>That CHRIST's Body had the Natural Properties belonging to a Body, Extend<g ref="char:EOLhyphen"/>ed, Finite, and Circumſcribed:</hi> And therefore, like another <hi>Di<g ref="char:EOLhyphen"/>dymus,</hi> he will not <hi>Believe, except he ſee, and into the Prints of the Nails of his Hands, put his Fingers; and into his Side, thruſt his Hand:</hi> So Senſual was he, that to feel with his Finger the Wound in his Side, would not ſuffice, unleſs there<g ref="char:EOLhyphen"/>in he thruſt his whole Hand. Even ſo this
+<hi>Gentleman:</hi> For, <hi>GOD</hi>'s Holy Word, ſo often repeated to Confirm the Being of his <hi>BODY</hi> and <hi>BLOOD</hi> in the
+<hi>Sacrament,</hi> will not ſuf<g ref="char:EOLhyphen"/>fice, unleſs he <hi>See</hi> and
+<hi>Feel</hi> the <hi>Body,</hi> Extended, Finite, and Circumſcrib'd. But, methinks, the Reproof our <hi>Saviour</hi> gave to One <hi>Didymus,</hi> might be a Warning to All the <hi>Didymus</hi>'s, that ſhould ever happen after him; when, <hi>John</hi> 20. v. 29. he told him, <hi>Thomas, Becauſe thou haſt SEEN Me, thou haſt BE<g ref="char:EOLhyphen"/>LIEVED: Bleſſed are they, that have NOT Seen, and yet HAVE Believed.</hi> Wherefore, to Believe but what we See, Feel, Taſte, and Smell, is to be <hi>Brutes,</hi> not <hi>Chriſtians;</hi> and worſe than <hi>Thomas,</hi> who Saw but the <hi>Humanity,</hi> yet Believ'd the <hi>Divinity</hi> of <hi>CHRIST.</hi> Pray, how was his <hi>Body</hi> to be Seen, Extended, Finite, and Circumſcrib'd, when He pene<g ref="char:EOLhyphen"/>trated and paſs'd through <hi>Walls</hi> and <hi>Doors</hi> that were cloſe, as proved
+<hi>Pag.</hi> 15, 16. For, by the ſame Reaſon that You prove, That
+<hi>CHRIST</hi>'s <hi>Body</hi> can paſs Intire through <hi>Walls</hi> or
+<hi>Doors,</hi> when cloſe; by the ſame Reaſon will I prove, That
+<pb n="31" facs="tcp:97655:17"/>
+               <hi>CHRIST</hi>'s <hi>Body</hi> may be in the
+<hi>Sacrament</hi> Intire, though no more to be ſeen There, than to be ſeen paſſing through the thickeſt <hi>Walls.</hi> But, upon the Whole, the
+<hi>Gentleman</hi> argues moſt Perfidiouſly of <hi>CHRIST,</hi> as if He were not <hi>GOD;</hi> nor diſtinguiſhing between his
+<hi rend="blackletterType">Glorious Body,</hi> and <hi rend="blackletterType">Ours,</hi> or any other <hi>Corruptible Carkaſs:</hi> As He is Perfect <hi>GOD,</hi> all Things are poſſible to Him; If ſo, Where then is the Difficul<g ref="char:EOLhyphen"/>ty to believe, but that <hi>CHRIST</hi> may as well be Contain'd under the Forms of <hi>BREAD</hi> and <hi>WINE,</hi> as the <hi>Holy Ghoſt</hi> under the Form of a <hi>DOVE,</hi>
+               <note place="margin">
+                  <hi>Mat.</hi>
+3.16.</note> with <hi>Feather, Beak, Wing,</hi> and all the Properties of a
+<hi>Fowl?</hi> Or, as the ſame <hi>Spirit,</hi> in the Form of
+<hi>TONG<g ref="char:V">Ʋ</g>ES</hi> of <hi>FIRE?</hi>
+               <note place="margin">Act. 2.3.</note> both which to our <hi>Eyes</hi> were but as a perfect <hi>Dove,</hi> and as perfect
+<hi>Tongues:</hi> Yet thoſe different Objects to the Eye of <hi>Fleſh,</hi> were but one <hi>Holy Ghoſt</hi> to the Eye of <hi>Faith;</hi> whereas, if
+<hi>Faith</hi> had been grounded upon <hi>Senſe,</hi> they could never have believ'd that <hi>Bird</hi> in Feather and Form, and thoſe <hi>Tongues</hi> of Fleſh in Flame, to be one and the ſame <hi>Holy Ghoſt.</hi> Therefore, nothing can be more plain, than that Objects may be one thing to the Eye of
+<hi>Fleſh,</hi> and ano<g ref="char:EOLhyphen"/>ther thing to the Eye of <hi>Faith;</hi> for to our
+<hi>Senſe,</hi> it was a per<g ref="char:EOLhyphen"/>fect <hi>Bird;</hi> but to our <hi>Faith,</hi> it was the <hi>Holy Ghoſt.</hi> Even ſo the <hi>Sacrament,</hi> to our Sight and Taſte, is but plain <hi>Bread</hi> and <hi>Wine;</hi> but, to our
+<hi>Faith</hi> (in <hi>GOD</hi>'s <hi>Word,</hi>) it is the Real and Intire
+<hi rend="blackletterType">Body</hi> and <hi rend="blackletterType">Blood</hi> of
+<hi>CHRIST;</hi> and the <hi>Au<g ref="char:EOLhyphen"/>thorities</hi> we have from <hi>Scripture,</hi> are far more ample for be<g ref="char:EOLhyphen"/>lieving the Latter to be the <hi rend="blackletterType">Body</hi> and <hi rend="blackletterType">Blood</hi> of
+<hi>CHRIST,</hi> than for believing the Formers to be the <hi>Holy Ghoſt.</hi>
+            </p>
+            <p>As to the Eight laſt <hi>Texts,</hi> which the
+<hi>Gentleman</hi> has pro<g ref="char:EOLhyphen"/>duc'd to diſprove our Doctrine of the
+<hi rend="blackletterType">Real Preſence,</hi> (to wit, <hi>Act.</hi> 1. v. 11.
+<hi>Act.</hi> 3. v. 21. St. <hi>Luk.</hi> 24. v. 39. <hi>Act.</hi> 1. v. 3. 1
+<hi>Joh.</hi> 1. v. 1. <hi>Heb.</hi> 9. v. 28. <hi>Heb.</hi> 10. v. 12.
+<hi>Phil.</hi> 3. v. 21.) they no way relate to the <hi>Sacrament,</hi> but to the <hi>Reſurrection</hi> and <hi>Aſcenſion</hi> of <hi>CHRIST</hi>'s
+<hi>Body:</hi> From whence he con<g ref="char:EOLhyphen"/>cludes; <pb n="32" facs="tcp:97655:18"/>
+               <q rend="inline">"That <hi>CHRIST</hi> is confin'd in
+<hi>Heaven</hi> only, and can be no where elſe, till He comes to judge the
+<hi>Quick,</hi> and the <hi>Dead;</hi> and, of conſequence, fixt at the Right Hand of the <hi>Father;</hi> and cannot be, as We ſuppoſe, in
+<hi>Heaven</hi> and <hi>Earth,</hi> in ſo many Places at the ſame Time."—</q>Which barren Con<g ref="char:EOLhyphen"/>ceit of <hi>CHRIST</hi> is ſufficiently Anſwer'd, <hi>Pag.</hi> 15, 16. where it is prov'd from <hi>Scriptures,</hi> That although <hi>CHRIST</hi> Aſcend<g ref="char:EOLhyphen"/>ed, and be in <hi>Heaven;</hi> yet it argues not, but that He is, and may be on <hi>Earth</hi> too: For, That He is a Perfect, and an Omnipotent <hi>GOD;</hi> and has promis'd, <hi>Mat.</hi> 28. v.
+20. <hi>That He will be with us always, even to the End of the World:</hi> And,
+<hi>Mat.</hi> 18. v. 20. That, <hi>Where Two or Three are gather'd toge<g ref="char:EOLhyphen"/>ther, in his Name, that He is in the midſt of them.</hi> And fur<g ref="char:EOLhyphen"/>ther, it appears, That our <hi>Saviour</hi> is not ſo Confin'd in <hi>Hea<g ref="char:EOLhyphen"/>ven,</hi> as that He cannot alſo be upon <hi>Earth;</hi> for we read, That He Deſcended, and overthrew <hi>Saul</hi> in the Way to <hi>Damaſ<g ref="char:EOLhyphen"/>cus,</hi> and ſpoke to him; ſaying, (<hi>Act.</hi> 9. v. 4, 5.) <hi>Saul, Saul, why perſecuteſt thou me? And he ſaid, Who art thou, Lord? And the Lord ſaid, I am JES<g ref="char:V">Ʋ</g>S, whom thou perſecuteſt.</hi> Where<g ref="char:EOLhyphen"/>fore the <hi>Gentleman</hi>'s Notion, of
+<hi>CHRIST</hi>'s being only in <hi>Heaven,</hi> you ſee, is frivolous; for that <hi>CHRIST</hi> not only ſpake with <hi>Saul</hi> in the High-way; but has promis'd, as before, To be <hi>with us always, even to the End of the World.</hi> And it's further prov'd, That <hi>CHRIST</hi> may be actually Preſent, without being Seen: For, when He ſpake to <hi>Saul,</hi> the Men that Travell'd with him to <hi>Damaſcus,</hi> ſtood by (<hi>Act.</hi> 9. v.
+7.) <hi>ſpeechleſs, hearing a Voice, but ſeeing no Man.</hi> By all which it's plain, That <hi>CHRIST</hi> may be on <hi>Earth,</hi> and in many Places, at the ſame Time, as well as in <hi>Heaven;</hi> or elſe He could not be
+<hi>with us always, even to the End of the World;</hi> nor with <hi>Saul in the Way;</hi> nor in the <hi>Midſt</hi> of all the Aſſem<g ref="char:EOLhyphen"/>blies of the Faithful, that <hi>are gather'd together in his Name,</hi> in ſo many Places, throughout the World, at one and the ſame Time. The <hi>Gentleman</hi>'s Arguments are therefore of no Ef<g ref="char:EOLhyphen"/>fect, <pb n="33" facs="tcp:97655:18"/>which (<hi>P.</hi>
+15, 16.) he brings to prove <hi>Chriſt</hi> only in <hi>Heaven,</hi> and no where elſe: For, although thoſe Texts do prove the <hi>Reſurrection, Aſ<g ref="char:EOLhyphen"/>cenſion,</hi> and <hi>Being</hi> of <hi>CHRIST</hi> in <hi>Heaven;</hi> yet they do not at all deſtroy the Power of <hi>CHRIST</hi>'s being in divers Places, at the ſame Time, according to his Divine Will. And pleaſe to note, That it is im<g ref="char:EOLhyphen"/>poſſible for any thing to be in the Will, which is not in the Power of <hi>GOD.</hi> Wherefore, as it was in his Will, (proved by his Word) to give us <hi>Bread</hi> to Eat, which ſhould be his <hi>Fleſh;</hi> ſo it was in his Power, that, That <hi>Bread</hi> ſhould be his
+<hi>Fleſh,</hi> tho no more Taſted in the <hi>Sacrament.</hi> than Seen when He ſpake unto <hi>Saul:</hi> And that He (whoſe Greatneſs the Heavens are not able to contain) had both the Power, and the Will, to be Conceived in the Womb of the <hi>Bleſſed Virgin,</hi> contrary to the Courſe of Nature; where, from almoſt Nothing, He encreaſed to be Born a
+<hi>Child-God,</hi> and to Die a <hi>God-Man;</hi> and in whoſe Power it was, to paſs, with his <hi>Body</hi> Intire, through <hi>Walls</hi> or
+<hi>Doors,</hi> that were cloſe; in his Power likewiſe it is, to be Contained in the ſmalleſt Par<g ref="char:EOLhyphen"/>ticle of <hi>Bread.</hi> Wherefore, with the Believing <hi>Diſciples,</hi> let us Believe; and not, with the Murmuring
+<hi>Jews,</hi> Doubt, how he could give us his <hi>Fleſh</hi> to Eat, and his
+<hi>Blood</hi> to Drink; nor, with the Incredulous <hi>Diſci<g ref="char:EOLhyphen"/>ples,</hi> ſay, <hi>'Tis an hard Saying, who can hear it?</hi> nor for this Cauſe, go back, (as they did) and walk no more with <hi>CHRIST,</hi> as They do, who deny the Being of his <hi>Body</hi> and <hi>Blood</hi> in the <hi>Sacrament,</hi> ſo expreſly con<g ref="char:EOLhyphen"/>firmed by Him, in whoſe <hi>Word</hi> there is no Contradiction: Wherefore, the Defect is not in the <hi>Word;</hi> but in the Carnal Imagination of Thoſe, who have not <hi>Faith</hi> to Believe it, nor
+<hi>Scripture</hi> to Diſprove it; nor is it Hard, but to the
+<hi>Obſtinate;</hi> nor Incredible, but to the <hi>Incredulous.</hi>
+            </p>
+            <p>Wherefore, to conclude, I humbly ſubmit the whole to your Prudent <hi>Conſideration,</hi> and Remind You of your <hi>Reſolution,</hi> (<hi>Pag.</hi> 5.).
+<q rend="inline">"That You would be either <hi>Catholick</hi> or
+<hi>Proteſtant,</hi> as the Verdict upon this <hi>Tryal</hi> ſhould go; and that the Succeſs ſhould depend upon the <hi>Evidence;</hi> which
+<hi>Evidence</hi> (in your Opinion) was the <hi>Bible;</hi> and that whoever produced the fulleſt and cleareſt <hi>Teſtimony,</hi> had the
+<hi>Truth</hi> on his ſide."—</q>Wherefore, as you Value the
+<hi>Eternal</hi> ſafety of your Soul, pleaſe ſeriouſly to diſtinguiſh and Peruſe the <hi>Texts,</hi> which I have aſſigned for it; and thoſe which the <hi>Proteſtant Anſwerer</hi> has brought againſt it; and I doubt not, but it will appear, That the <hi>Scriptures</hi> aſſigned on the <hi>Catholick</hi> part, are abundantly Expreſſive and Plain for the Being of <hi>Chriſt</hi>'s <hi>Body</hi> and <hi>Blood</hi> in the <hi>Sacrament;</hi> and that the <hi>Scriptures</hi> produced on the
+<hi>Prote<g ref="char:EOLhyphen"/>ſtant</hi> part, are alſo Expreſly for it, or not at all againſt it: For that what I have offer'd, is the Expreſs <hi>Word</hi> of
+<hi>GOD;</hi> who, promiſing, ſaid, <hi>That <pb n="34" facs="tcp:97655:19"/>the Bread which He would give, was his Fleſh, which He would give for
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Life of the World;</hi> and performing, <hi>Took Bread, Bleſſed it, Brake it,
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> gave it; ſaying, Take, Eat, This is My Body;</hi> which Words of Promiſe a<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Performance, are Poſitive, and have never yet (by
+<hi>Divine Authority</hi>) b<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> contradicted; for that 'tis impoſſible to produce one Syllable out of t<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> whole <hi>Bible,</hi> to prove the contrary: Wherefore ſeeing, that <hi>Proteſta<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> cannot prove, by <hi>Expreſs Scripture,</hi> That the <hi>Bread</hi> which <hi>Chriſt</hi> Bl<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſed, and gave at his <hi>Supper,</hi> was not his
+<hi>Fleſh;</hi> and that <hi>Catholicks</hi> ca<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and do, that it was; I hope, You will be ſo much the more convinc'd <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> believe the
+<hi>REAL PRESENCE,</hi> by how much the Words of <hi>GO<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> are more powerful than the <hi>Arguments</hi> of
+<hi>MAN;</hi> I ſay, than the A<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>guments or Words of <hi>Man;</hi> for, that the Arguments alledged by t<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <hi>Proteſtant Anſwerer,</hi> againſt the <hi>Real Preſence,</hi> are all of
+<hi>Man,</hi> and n<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of
+<hi>God,</hi> they are His Words, and not the Words of <hi>God:</hi> Whereas tho<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Abſolute and Expreſs,
+<hi>Take, Eat, This is my BODY,</hi> are the Words
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>God,</hi> and not of
+<hi>Man;</hi> and He neither has, nor can produce one <hi>Tex<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> to contradict them: Wherefore, I expect to hear of your Satisfactio<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and Declaration for the <hi>Catholick Faith,</hi> in this particular; and n<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> that You behave your Self like thoſe Frivolous, Vain, and Impertine<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <hi>Enquirers;</hi> who, when convinc'd of One Point, mind it no more, b<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> deſire to be ſatisfied of Another; aſſuming, as it were, an aſſurance
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> themſelves, that tho' We are right in the <hi>Real Preſence,</hi> we may be wro<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> in reference to the <hi>Infallibility;</hi> and if right in That, ſuch is their Ign<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>rance to think We Err in Praying to <hi>Saints,</hi> uſe of
+<hi>Images, Purgato<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> or in ſomething elſe, they know not what: And thus, like <hi>Mag-Py<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> they Chatter, and Hop from
+<hi>Buſh</hi> to <hi>Buſh,</hi> from <hi>Point</hi> to <hi>Point,</hi> witho<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> fixing upon <hi>Truth,</hi> as they ought to do, where ever they find it.</p>
+            <p>Wherefore, I pray, be Satisfied in This of the <hi>Real Preſence,</hi> or Pr<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>poſe your Doubts, before You proceed to the <hi>Infallibility of the Churc<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> or to any other Point of
+<hi>Faith,</hi> in Difference betwixt Us, and t<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Church of <hi>England;</hi> for ſo You will be Stedfaſt to ſomething, and n<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> be wavering, and <hi>Carried away with every Wind of Doctrine;</hi> b<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Fix your <hi>Standard</hi> among the
+<hi>Faithful,</hi> and Encamp with the <hi>Hoſt</hi>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Ever-Living and All-Powerful <hi>GOD,</hi> for the Security and Etern<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Peace of your <hi>Soul:</hi> Which Peace, that You may Enjoy for all Ete<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>nity, is Prayed for by Him, that is,</p>
+            <closer>
+               <salute>SIR,</salute>
+               <signed>Yours in all Chriſtian Duty, N. N</signed>
+            </closer>
+            <pb facs="tcp:97655:19"/>
+         </div>
+      </body>
+   </text>
+</TEI>
